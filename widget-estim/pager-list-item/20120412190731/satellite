@@ -1,0 +1,99 @@
+/**
+ * Initialisation des calendriers sur la page de recherche.
+ */
+window.wdg.pushInit(".acs-search-calendar", function(){
+  $(this).datepicker({
+    changeMonth: true,
+    changeYear: true,
+    dateFormat: 'dd/mm/yy',
+    dayNamesMin: ['Di', 'Lu', 'Ma', 'Me', 'Je', 'Ve', 'Sa'],
+    monthNamesShort: ['Jan','Fev','Mar','Avr','Mai','Jui','Juil','Aou','Sep','Oct','Nov','Dec']
+  });
+});
+
+/**
+ * Permet de valider les champs du formulaire de recherche.
+ * @returns {Boolean}
+ */
+function validSearch(){
+  var dateDeb = $("input[name='datedeb']").val();
+  var dateFin = $("input[name='datefin']").val();
+  if (dateDeb && dateFin &&
+      $.datepicker.parseDate('dd/mm/yy', dateDeb)>$.datepicker.parseDate('dd/mm/yy', dateFin)    
+    ) {
+     alert("La date de fin doit être supérieure �  la da date de début!");
+     return false;
+  }
+  return true;
+}
+
+/**
+ * permet d'ajouter l'image "Plus de coup de coeur sur le diaporama."
+ */
+window.wdg.pushInit('.diaporama-cc', function () {
+  $elf = $(this);
+  if ($('body').data("urlCoupDeCoeur")) {
+    $buttons = $elf.find('.ui-txtImgSlide-actionsBox');
+    $buttons.append('<div class="button-plus-cc"><span>' + $("body").data("titleButtonCc") + '</span></div>');
+    $buttonCC = $('.button-plus-cc');      
+    $buttonCC.click(function(){
+      window.location = $('body').data("urlCoupDeCoeur");
+    });    
+  } 
+});
+
+
+/**
+ *  ajustement sur le fil d'infos.
+ */
+window.wdg.pushInit('.filInfoContainer', function () {
+  $elf = $(this);
+  var $filInfo = $elf.parent().addClass("fil-info-acs");
+  $filInfo.prepend('<div class="fil-info-entete">' + $("body").data("titleFilInfo") + '</div>');
+  $('.fil-info-entete').css({
+    "float" : "left" 
+  });
+});
+
+/**
+ * transfert du lien sur l'image pour les widget lateraux.
+ */
+window.wdg.pushInit(".widgetSearch", function () {
+  $(this).widgetformat();
+});
+window.wdg.pushInit(".widgetPartner", function () {
+  $(this).widgetformat();
+});
+window.wdg.pushInit(".widgetALaUne", function () {
+  $(this).widgetformat();
+});
+window.wdg.pushInit(".widgetContact", function () {
+  $(this).widgetformat();
+});
+
+/**
+ * permet de formatter les widget lateraux
+ * sous-forme d'image cliquable.
+ * - en cachant le lien original.
+ * - en transferant le lien sur l'image.
+ */
+(function($) {
+  $.fn.widgetformat = function() {
+    $elf = $(this);
+    var link = $elf.find(".link");
+    if (link && link.attr('href')) {
+      var linkCible = link.attr('href');
+	  var linkTarget = link.attr('target');
+      link.hide();
+      $elf.mouseover(function(){
+        $(this).css("cursor","pointer")
+      }).click(function(){
+		if('_blank'==linkTarget){
+			window.open(linkCible,'childWin','');
+		}else{
+			window.location = linkCible;  
+		}
+      });
+    }   
+  }
+})(jQuery)

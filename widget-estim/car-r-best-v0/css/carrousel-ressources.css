@@ -1,0 +1,11 @@
+/* 
+Styles relatifs au CARROUSEL LAST RESSOURCE
+--------------------------------------------------------------------------------------------------------------------------------------*/
+@import url(slider.css);
+
+.cat-res {
+    color: #207580;
+    display: inline-block;
+    font-size: 1.1em;
+    font-weight: 700;
+}

@@ -1,0 +1,31 @@
+{
+    "datas": [
+        {
+            "tabs": "description",
+            "paragraphs": [
+                {
+                    "desc": "0 Lorem ipsum do lor sit amet consectetuer pede nulla ut vitae dis. Fusce congue tristique Donec lacus Mauris lorem wisi justo Nunc nec. Volutpat turpis Phasellus Pellentesque Vivamus Aliquam nibh augue tel  usce congue tristique Donec lacus Mauris lorem wisi justo  auris lorem wisi justo Nunc nec orem ipsum do lor sit amet consectetuer pede nulla ut vitae dis. Fusce congue tristique Donec lacus Mauris lorem wisi justo Nunc nec. Volutpat turpis Phasellus Pellentesque Vivamus Aliquam nibh augue tel  usce congue tristique Donec lacus Mauris lorem wisi justo  auris lorem wisi justo Nunc nec"
+                },
+                {
+                    "desc": "Lorem ipsum do lor sit amet consectetuer pede nulla ut vitae dis. Fusce congue tristique Donec lacus Mauris lorem wisi justo Nunc nec. Volutpat turpis Phasellus Pellentesque Vivamus Aliquam nibh augue tel  usce congue tristique Donec lacus Mauris lorem wisi justo  auris lorem wisi justo Nunc nec orem ipsum do lor sit amet consectetuer pede nulla ut vitae dis. Fusce congue tristique Donec lacus Mauris lorem wisi justo Nunc nec. Volutpat turpis Phasellus Pellentesque Vivamus Aliquam nibh augue tel  usce congue tristique Donec lacus Mauris lorem wisi justo  auris lorem wisi justo Nunc nec"
+                }
+            ]
+        },
+        {
+            "tabs": "données techniques",
+            "paragraphs": [
+                {
+                    "desc": "1 Lorem ipsum do lor sit amet consectetuer pede nulla ut vitae dis. Fusce congue tristique Donec lacus Mauris lorem wisi justo Nunc nec. Volutpat turpis Phasellus Pellentesque Vivamus Aliquam nibh augue tel  usce congue tristique Donec lacus Mauris lorem wisi justo  auris lorem wisi justo Nunc nec orem ipsum do lor sit amet consectetuer pede nulla ut vitae dis. Fusce congue tristique Donec lacus Mauris lorem wisi justo Nunc nec. Volutpat turpis Phasellus Pellentesque Vivamus Aliquam nibh augue tel  usce congue tristique Donec lacus Mauris lorem wisi justo  auris lorem wisi justo Nunc nec"
+                }
+            ]
+        },
+        {
+            "tabs": "Droits d'utilisation",
+            "paragraphs": [
+                {
+                    "desc": "2 Lorem ipsum do lor sit amet consectetuer pede nulla ut vitae dis. Fusce congue tristique Donec lacus Mauris lorem wisi justo Nunc nec. Volutpat turpis Phasellus Pellentesque Vivamus Aliquam nibh augue tel  usce congue tristique Donec lacus Mauris lorem wisi justo  auris lorem wisi justo Nunc nec orem ipsum do lor sit amet consectetuer pede nulla ut vitae dis. Fusce congue tristique Donec lacus Mauris lorem wisi justo Nunc nec. Volutpat turpis Phasellus Pellentesque Vivamus Aliquam nibh augue tel  usce congue tristique Donec lacus Mauris lorem wisi justo"
+                }
+            ]
+        }
+    ]
+}

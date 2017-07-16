@@ -1,0 +1,358 @@
+/* styles génériques pour les carrousels :
+- Carrousel des évènements à venir
+- Carrousel des ressources les mieux notées
+- Carrousel des ressources publiées.
+--------------------------------------------------------------------------------------------------------------------------------------*/
+@import url(general-form.css);
+
+.carrousel {
+  margin-bottom: 55px;
+  position: relative;
+}
+
+.carrousel .content {
+  padding: 15px 55px 35px;
+  border-top: 1px solid #fff;
+  background-color: #f8f6f3;
+}
+
+.carrousel > h2 {
+  font-size: 1.5em;
+  margin-bottom: 15px;
+}
+
+/* Slider-home : classe sur l'ensemble des carrousels
+carrousel de evenements et carrousels des ressources.
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.slider-home .box {
+  width: 169px;
+  padding: 10px;
+  display: block;
+  background-color: #fff;
+  border: 1px solid #c0c0c0;
+  text-decoration: none;
+}
+
+.slider-home .slider li {
+  width: 191px;
+  float: left;
+  margin-right: 28px;
+}
+
+.slider-home .box .thumb {
+  position: relative;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.slider-home .box .date {
+  display: block;
+  margin-bottom: 5px;
+  color: #676767;
+  font-size: 1.2em;
+}
+
+.slider-home .box .public, .slider-home .box .csti{
+  cursor: pointer;
+  width: 120px;
+  font-size: 1.1em;
+  text-transform: uppercase;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 1px 0 1px 25px;
+  background: url(../../img/ico-filter-cats.png) left top no-repeat;
+}
+
+.slider-home .box .public {
+  background-position: left -717px;
+}
+
+.slider-home .box .csti {
+  background-position: left -800px;
+}
+
+.slider-home .box .cat-res {
+  display: block;
+}
+
+.slider-home .box h3 {
+  margin: 10px 0 0;
+  font-size: 1.2em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.slider-home .box .by {
+  display: block;
+  color: #e30613;
+  margin-top: 20px;
+  font-size: 1.2em;
+}
+
+.slider-home .box .by a {
+  color: #e30613;
+  text-decoration: underline;
+}
+
+.slider-home .box .by a:hover {
+  text-decoration: none;
+}
+
+/*********** NICESCROLL **********/
+.nicescroll-rails {
+  -webkit-box-shadow: inset #cccccc 0 2px 3px;
+  -moz-box-shadow: inset #cccccc 0 2px 3px;
+  box-shadow: inset #cccccc 0 2px 3px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+
+/* .form-cats
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.form-cats > li {
+  margin-top: 25px;
+}
+.form-cats > li:first-child {
+  margin-top: 0;
+}
+.form-cats .cat-title {
+  font-size: 1.4em;
+  font-weight: 700;
+  text-transform: uppercase;
+  vertical-align: middle;
+  padding-left: 20px;
+  background: url(../../img/ico-cat-title.png) left center no-repeat;
+}
+.form-cats ul {
+  margin: 10px 0;
+}
+.form-cats ul li {
+  margin-top: 10px;
+  padding-left: 15px;
+    display: inline-block;
+    cursor: pointer;
+}
+.form-cats ul li.focus label{
+    font-weight: bold;
+}
+.form-cats ul li:first-child {
+  margin-top: 0;
+}
+.form-cats ul li label {
+    cursor: pointer;
+  width: 120px;
+  font-size: 1.1em;
+  text-transform: uppercase;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 1px 0 1px 25px;
+  background: url(../../img/ico-filter-cats.png) left top no-repeat;
+}
+.form-cats ul li:focus{background-color: red}
+.form-cats ul li .new-checkbox.check + .video {
+  background-position: left -40px;
+}
+.form-cats ul li .new-checkbox.check + .audio {
+  background-position: left -40px;
+}
+.form-cats ul li .image {
+  background-position: left -80px;
+}
+.form-cats ul li .new-checkbox.check + .image {
+  background-position: left -120px;
+}
+.form-cats ul li .multimedia {
+  background-position: left -160px;
+}
+.form-cats ul li .new-checkbox.check + .multimedia {
+  background-position: left -200px;
+}
+.form-cats ul li .publication {
+  background-position: left -240px;
+}
+.form-cats ul li .new-checkbox.check + .publication {
+  background-position: left -280px;
+}
+.form-cats ul li .conference {
+  background-position: left -320px;
+}
+.form-cats ul li .new-checkbox.check + .conference {
+  background-position: left -360px;
+}
+.form-cats ul li .outil {
+  background-position: left -400px;
+}
+.form-cats ul li .new-checkbox.check + .outil {
+  background-position: left -440px;
+}
+.form-cats ul li .expo, .form-cats ul li .ficheexpo {
+  background-position: left -471px;
+}
+.form-cats ul li .new-checkbox.check + .expo, .form-cats ul li .new-checkbox.check + .ficheexpo {
+  background-position: left -511px;
+}
+.form-cats ul li .objet {
+  background-position: left -560px;
+}
+.form-cats ul li .new-checkbox.check + .objet {
+  background-position: left -600px;
+}
+.form-cats ul li .spectacle {
+  background-position: left -640px;
+}
+.form-cats ul li .new-checkbox.check + .spectacle {
+  background-position: left -680px;
+}
+.form-cats ul li .public {
+  background-position: left -717px;
+}
+.form-cats ul li .new-checkbox.check + .public {
+  background-position: left -757px;
+}
+.form-cats ul li .csti {
+  background-position: left -800px;
+}
+.form-cats ul li .new-checkbox.check + .csti {
+  background-position: left -840px;
+}
+.form-cats ul li .formation {
+  background-position: left -880px;
+}
+.form-cats ul li .new-checkbox.check + .formation {
+  background-position: left -920px;
+}
+.form-cats ul li .personne {
+  background-position: left -960px;
+}
+.form-cats ul li .new-checkbox.check + .personne {
+  background-position: left -1000px;
+}
+.form-cats ul li .structure {
+  background-position: left -1040px;
+}
+.form-cats ul li .new-checkbox.check + .structure {
+  background-position: left -1080px;
+}
+.form-cats  li.video  ul  li label {
+  background: transparent;
+  padding: 0px
+}
+
+
+
+/* MOBILE
+--------------------------------------------------------------------------------------------------------------------------------------*/
+@media only screen and (min-width: 480px) {
+  .mobile-only {
+    display: none;
+  }
+}
+@media screen and (max-width: 480px),
+    screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) {
+
+	.carrousel {
+	  margin: 0 12px 25px;
+	  background-color: #fff;
+	  padding:15px;
+	}
+	
+	.carrousel .corner-link {
+	  display: none;
+	}
+	.carrousel .content {
+	  padding: 15px;
+	  border-top: 0;
+	  background-color: #f8f6f3;
+	}
+	.carrousel .bx-wrapper {
+	  margin: 0 auto;
+	  width: 191px !important;
+	}
+		
+	.carrousel .export {
+	  display: none;
+	}
+	
+	.carrousel .agenda {
+	  display: block;
+	  width: 100%;
+	  padding: 0 9px;
+	  text-align: center;
+	  background-image: none;
+	}
+	
+	.carrousel .agenda span {
+	  line-height: 28px;
+	  display: inline-block;
+	  padding-left: 32px;
+	  background: url(../../img/ico-agenda.png) left center no-repeat;
+	}
+	
+	.carrousel .agenda:before {
+	  content: "";
+	  display: block;
+	  width: 9px;
+	  height: 7px;
+	  position: absolute;
+	  right: 0;
+	  top: -7px;
+	  background: url(../../img/corner-link.png) left top no-repeat;
+	}
+		
+	.slider-home .slider {
+	  width:100%;
+	  -webkit-transform: none !important;
+	  -moz-transform: none !important;
+	  -o-transform: none !important;
+	  transform: none !important;
+	}
+	.slider-home .slider li {
+	  width:100% !important;
+	  float:none;
+	  margin:10px auto;
+	}
+	.slider-home .box {
+	  width:auto;
+	  height:auto !important;
+	}
+	.slider-home .box:after {
+	  visibility:hidden;
+	  display:block;
+	  font-size:0;
+	  content:" ";
+	  clear:both;
+	  height:0;
+	}
+	.slider-home .box .thumb {
+	  width:28%;
+	  float:left;
+	  margin:0 2% 0 0;
+	}
+	.slider-home .box .thumb img {
+	  width:100%;
+	  height:auto;
+	}
+	.slider-home .box .cat-res{
+	  width:70%;
+	  float:left;
+	  margin-bottom:5px;
+	  -webkit-box-sizing: border-box;
+	  -moz-box-sizing: border-box;
+	  -o-box-sizing: border-box;
+	  box-sizing: border-box;
+	}
+	
+}
+
+/* TABLET
+--------------------------------------------------------------------------------------------------------------------------------------*/
+/* @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) */
+@media screen and (min-width: 480px) and (max-width: 768px) {
+
+    .slider-home .slider li {
+    margin-right: 9px;
+    }
+
+}
+

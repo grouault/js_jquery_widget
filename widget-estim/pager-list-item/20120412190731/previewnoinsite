@@ -1,0 +1,1927 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- DEB - Scientifica/CSElement/ConstructHeader -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- DEB - Scientifica/CSElement/checkCanonical -->
+<!-- FIN - Scientifica/CSElement/checkCanonical -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Expositions / Visites - universcience.fr</title>
+<!-- Recuperation de l'id de la page d'accueil -->
+<!-- Nouveaux sites -->
+<meta name="ASSETTYPE" content="Page" />
+<meta name="ID" 		content="1248102503665" />
+<meta name="ID_PORTAIL" content="1248102481427" />
+<meta name="LIBELLE_PORTAIL" content="à la Une des régions" />
+<meta name="URL_PORTAIL" content="http://webprep.dmzprive.cite-sciences.fr/fr/a-la-une-des-regions/rendermode/previewnoinsite" />
+<meta name="UPDATEDDATE" content="Tue, 20 Mar 2012 18:18:21 CET" />
+<meta name="keywords" lang="FR" content="Expositions,/,Visites,universcience.fr" />
+<script type="text/javascript" src="/mediacs/js/swfobject1-5/swfobject.js"></script>
+<script language="javascript" type="text/javascript" src="/mediacs/js/swfobject-2.1/swfobject.js"></script>
+<script language="javascript" type="text/javascript" src="/mediacs/js/cms-messages-fr_FR.js"></script>
+<script language="javascript" type="text/javascript" src="/mediacs/js/cms.js"></script>
+<script language="javascript" type="text/javascript" src="/mediaplayer/js/mediaplayer.js"></script>
+<script language="javascript" type="text/javascript" src="/mediacs/js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="/mediacs/js/jquery-ui.js"></script>
+<script language="javascript" type="text/javascript" src="/mediacs/js/jquery-ui-custom.js"></script>
+<script language="javascript" type="text/javascript" src="/mediacs/js/widget.js"></script>
+<link rel="stylesheet" type="text/css" href="/mediacs/css/widget.css" />
+<script language="javascript" type="text/javascript" src="/mediacs/js/diaporama.js"></script>
+<script language="javascript" type="text/javascript" src="/mediacs/js/carousel.js"></script>
+<script language="javascript" type="text/javascript" src="/mediacs/js/jquery.carousel.min.js"></script>
+<script language="javascript" type="text/javascript" src="/mediacs/js/pushinit.js"></script>
+<script type="jquery/onload">$("body").data("urlFichierXML","/cms/Satellite?c=Page&cid=1248102503665&pagename=ACS%2FPage%2FAccueilConferences%2FSeancesXML&pid=1248102481427&rendermode=previewnoinsite");</script>
+<script language="javascript" type="text/javascript" src="/mediacs/js/jquery.prettyPhoto.js"></script>
+<script language="javascript" type="text/javascript" src="/mediacs/js/widget-init.js"></script>
+<link rel="stylesheet" type="text/css" href="/mediacs/css/jquery-pretty-photo.css" />
+<script type="text/javascript">
+window.wdg.pushInit(".wdg_sliderImageAndText",function(){
+// Datepicker
+$(this).txtImgSlide({
+width : 548,
+height : 200	,timer : 5
+});
+});
+</script>
+<script language="javascript" type="text/javascript">
+$(function(){
+$("div.type-1").carousel({ autoSlide: true, loop: true, autoSlideInterval: 10000});
+$("div.type-4a").carousel({ dispItems: 3, animSpeed: "slow" });
+});
+</script>
+<script language="javascript" type="text/javascript">
+function postForm(frm) {
+frm.q.value = escape(frm.q.value);
+return true;
+}
+</script>
+<script language="javascript" type="text/javascript" src="/cms/Satellite?blobcol=urldata&amp;blobheader=text%2Fjavascript&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1248129683852&amp;ssbinary=true"></script>
+<link rel="stylesheet" type="text/css" href='/cms/Satellite?blobcol=urldata&amp;blobheadername1=content-type&amp;blobheadervalue1=text%2Fcss&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1248126584069&amp;ssbinary=true' />
+<link rel="stylesheet" type="text/css" href='/cms/Satellite?blobcol=urldata&amp;blobheadername1=content-type&amp;blobheadervalue1=text%2Fcss&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1248129713500&amp;ssbinary=true' />
+<link rel="stylesheet" type="text/css" href='/cms/Satellite?blobcol=urldata&amp;blobheadername1=content-type&amp;blobheadervalue1=text%2Fcss&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1248119972819&amp;ssbinary=true' />
+<!--<link rel="stylesheet" type="text/css" href="/mediacs/css/ui-dialog/jquery-ui-1.7.3.custom.css" />-->
+<link rel="stylesheet" type="text/css" href="/mediacs/styles/universcience/footer.css" />
+</head>
+<!-- FIN - Scientifica/CSElement/ConstructHeader -->
+<!-- DEB - Scientifica/CSElement/ConstructBody -->
+<body>
+<div id="global">
+<div id="easyaccess">
+<a accesskey="1" href="#header">
+Accueil
+</a>
+<a accesskey="2" href="#menuderoulant_specifique">
+Menu g&eacute;n&eacute;ral
+</a>
+<a accesskey="3" href="#menuhorizontal">
+Aller au menu cite des science
+</a>
+<a accesskey="4" href="#breadcrumb">
+Fil d'ariane
+</a>
+<a accesskey="5" href="#menulateral">
+Menu local
+</a>
+<a accesskey="6" href="#contenucentral">
+Aller au contenu
+</a>
+<a accesskey="7" href="#footer">
+Bas de page
+</a>
+<a accesskey="d" href="#date">
+Raccourcis accès au calendrier
+</a>
+<a accesskey="m" href="#PPAmenu">
+Raccourci vers les ressources (menu de gauche)
+</a>
+<a accesskey="n" href="#detail_niveau">
+Raccourci vers la partie agenda
+</a>
+<a accesskey="e" href="#etages">
+Raccourcis accès aux étages
+</a>
+<a accesskey="p" href="#datepicker">
+Raccourcis accès au calendrier
+</a>
+<a accesskey="g" href="#listContainerAgenda">
+Raccourci vers les ressources (menu de gauche)
+</a>
+<a accesskey="a" href="#articleContainerSplit">
+Raccourci vers la partie agenda
+</a>
+</div>
+<div id="header">
+<div id="menuderoulant_specifique" >
+<!-- DEB - Scientifica/Page/MenuDeroulant -->
+<ul class="niveau1">
+<li class="home">
+<a class="label" title="universcience.fr"  href="/fr/accueil/rendermode/previewnoinsite"  >
+universcience.fr
+</a>
+</li>
+<li class="c2">
+<!-- DEB - Scientifica/Page/SousMenuDeroulant -->
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='La Cité des sciences' href="/fr/cite-des-sciences/rendermode/previewnoinsite" accesskey="">La Cité des sciences</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<div class="menuderoulant">
+<ul class="niveau2">
+<li class="d1">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Accueil' href="/fr/cite-des-sciences/rendermode/previewnoinsite" accesskey="">Accueil</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d2">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Au programme ' href="/fr/cite-des-sciences/cite/c/1239022828519/-/rendermode/previewnoinsite" accesskey="">Au programme </a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d3">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Préparer ma visite' href="/fr/cite-des-sciences/cite/c/1239022828523/-/rendermode/previewnoinsite" accesskey="">Préparer ma visite</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+</ul>
+</div>
+<!-- FIN - Scientifica/Page/SousMenuDeroulant -->
+</li>
+<li class="c3">
+<!-- DEB - Scientifica/Page/SousMenuDeroulant -->
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_blank" class="label" title="http://www.palais-decouverte.fr/"  href="http://www.palais-decouverte.fr/" accesskey="">
+Le Palais de la découverte
+</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<!-- FIN - Scientifica/Page/SousMenuDeroulant -->
+</li>
+<li class="c4">
+<!-- DEB - Scientifica/Page/SousMenuDeroulant -->
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Nous connaître' href="/fr/nous-connaitre/rendermode/previewnoinsite" accesskey="">Nous connaître</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<div class="menuderoulant">
+<ul class="niveau2">
+<li class="d1">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='universcience' href="/fr/nous-connaitre/contenu/c/1239022829220/-/rendermode/previewnoinsite" accesskey="">universcience</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d2">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Cité des sciences' href="/fr/nous-connaitre/contenu/c/1239022829223/-/rendermode/previewnoinsite" accesskey="">Cité des sciences</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d3">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Palais de la découverte' href="/fr/nous-connaitre/contenu/c/1239022829226/-/rendermode/previewnoinsite" accesskey="">Palais de la découverte</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d4">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Géode' href="/fr/nous-connaitre/contenu/c/1248104330680/-/rendermode/previewnoinsite" accesskey="">Géode</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d5">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Domaines d&#39;activité' href="/fr/nous-connaitre/contenu/c/1248104820499/-/rendermode/previewnoinsite" accesskey="">Domaines d&#39;activité</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+</ul>
+</div>
+<!-- FIN - Scientifica/Page/SousMenuDeroulant -->
+</li>
+<li class="c5">
+<!-- DEB - Scientifica/Page/SousMenuDeroulant -->
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Se documenter' href="/fr/se-documenter/rendermode/previewnoinsite" accesskey="">Se documenter</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<div class="menuderoulant">
+<ul class="niveau2">
+<li class="d1">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Bibliothèque' href="/fr/bibliotheque-bsi/rendermode/previewnoinsite" accesskey="">Bibliothèque</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d2">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="" class="label" title='Accessibilité' href="/fr/mini-sites/rendermode/previewnoinsite" accesskey="">Accessibilité</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d3">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="" class="label" title='Conférences de la Cité' href="/fr/conferences-du-college/rendermode/previewnoinsite" accesskey="">Conférences de la Cité</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d4">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_blank" class="label" title="http://www.palais-decouverte.fr/index.php?id=314"  href="http://www.palais-decouverte.fr/index.php?id=314" accesskey="">
+Conférences du Palais
+</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d5">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Ressources thématiques' href="/fr/ressources-thematiques/rendermode/previewnoinsite" accesskey="">Ressources thématiques</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d6">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_blank" class="label" title="http://www.universcience-vod.fr/"  href="http://www.universcience-vod.fr/" accesskey="">
+universcience-vod
+</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d7">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Editions' href="/fr/editions/rendermode/previewnoinsite" accesskey="">Editions</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d8">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Cité des métiers' href="/fr/cite-des-metiers/rendermode/previewnoinsite" accesskey="">Cité des métiers</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d9">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Cité de la santé' href="/fr/cite-de-la-sante/rendermode/previewnoinsite" accesskey="">Cité de la santé</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d10">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Carrefour numérique' href="/fr/carrefour-numerique/rendermode/previewnoinsite" accesskey="">Carrefour numérique</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d11">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Laboratoire' href="/fr/laboratoire/labo/sl/1239022828884/-/rendermode/previewnoinsite" accesskey="">Laboratoire</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d12">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Lexique' href="/fr/lexique/accueil-lexique/sl/1239022830869/-/rendermode/previewnoinsite" accesskey="">Lexique</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+</ul>
+</div>
+<!-- FIN - Scientifica/Page/SousMenuDeroulant -->
+</li>
+<li class="c6">
+<!-- DEB - Scientifica/Page/SousMenuDeroulant -->
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='S&#39;informer' href="/fr/s-informer/informer/sl/1239022831181/-/rendermode/previewnoinsite" accesskey="">S&#39;informer</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<div class="menuderoulant">
+<ul class="niveau2">
+<li class="d1">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Science Actualités' href="/fr/science-actualites/rendermode/previewnoinsite" accesskey="">Science Actualités</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d2">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_blank" class="label" title="http://www.universcience.tv/"  href="http://www.universcience.tv/" accesskey="">
+universcience.tv
+</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d3">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Biomagazine' href="/fr/biomag/rendermode/previewnoinsite" accesskey="">Biomagazine</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d4">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Journal de l&#39;astronomie' href="/fr/astronomie-espace/rendermode/previewnoinsite" accesskey="">Journal de l&#39;astronomie</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d5">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='PlanèteMag' href="/fr/planetemag/rendermode/previewnoinsite" accesskey="">PlanèteMag</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d6">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="" class="label" title='à la Une des régions' href="/fr/a-la-une-des-regions/rendermode/previewnoinsite" accesskey="">à la Une des régions</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+</ul>
+</div>
+<!-- FIN - Scientifica/Page/SousMenuDeroulant -->
+</li>
+<li class="c7">
+<!-- DEB - Scientifica/Page/SousMenuDeroulant -->
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Participer' href="/fr/participer/rendermode/previewnoinsite" accesskey="">Participer</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<div class="menuderoulant">
+<ul class="niveau2">
+<li class="d1">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Mon espace' href="/fr/participer/contenu/c/1239022830502/-/rendermode/previewnoinsite" accesskey="">Mon espace</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d2">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Mon espace Educ' href="/fr/education/contenu/c/1239022828734/-/rendermode/previewnoinsite" accesskey="">Mon espace Educ</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d3">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Blogs' href="/fr/participer/contenu/c/1239022830508/-/rendermode/previewnoinsite" accesskey="">Blogs</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d4">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Communautés' href="/fr/participer/contenu/c/1239022830520/-/rendermode/previewnoinsite" accesskey="">Communautés</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d5">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Télécharger' href="/fr/participer/contenu/c/1239022830517/-/rendermode/previewnoinsite" accesskey="">Télécharger</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d6">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Forums et chats' href="/fr/participer/contenu/c/1239022830511/-/rendermode/previewnoinsite" accesskey="">Forums et chats</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d7">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Sondages' href="/fr/participer/contenu/c/1239022830517/-/rendermode/previewnoinsite" accesskey="">Sondages</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+<li class="d8">
+<!-- DEB - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+<a target="_self" class="label" title='Visite +' href="/fr/participer/contenu/c/1248104342366/-/rendermode/previewnoinsite" accesskey="">Visite +</a>
+<!-- FIN - Scientifica/Page/PageLienSTF/LienMenuSTF -->
+</li>
+</ul>
+</div>
+<!-- FIN - Scientifica/Page/SousMenuDeroulant -->
+</li>
+</ul>
+<!-- FIN - Scientifica/Page/MenuDeroulant -->
+<div id="searchbox">
+<!-- DEB - Scientifica/CSElement/Search/SearchBox -->
+<span class='libelleRecherche'>
+Recherche
+</span>
+<form name="searchbox" method="post" action="/cms/Satellite?c=Page&amp;cid=1239024269562&amp;pagename=EScienceRecherche%2FPage%2FPageRecherche%2FClassique&amp;pid=1248102481427&amp;rendermode=previewnoinsite" onsubmit="return postForm(this);" target="_self">
+<input type="hidden" name="Page" value="Page" />
+<input  class="query" type="text" accesskey="r" name="q" value="Recherche" onfocus="if(this.value == 'Recherche') this.value='';" />
+<input class="submit" type="submit" value="" />
+</form>
+<script language="javascript">
+function postForm(frm) {
+frm.q.value = escape(frm.q.value);
+return true;
+}
+</script>
+<!-- FIN - Scientifica/CSElement/Search/SearchBox -->
+</div>
+</div>
+<div id="langIdent">
+<img class="ident" src="" alt=""/>
+</div>
+<a href="/fr/a-la-une-des-regions/rendermode/previewnoinsite" id="bandeau">&nbsp;</a>
+<div id="breadcrumb">
+<!-- DEB - Scientifica/Nav/BreadCrumb -->
+<ul>
+<li class="breadlink">
+<a style="text-decoration: underline; cursor: pointer" href="#">Accueil</a> >
+</li>
+<li class="breadlink">
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<div class="lien">
+<a
+target	="_self"
+href	='/fr/s-informer/informer/sl/1239022831181/sinformer/rendermode/previewnoinsite'
+title	="Français">
+Français
+</a>
+</div>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<span style="display: inline;">&nbsp;&gt;</span></li>
+<li class="breadlink">
+<a title="à la Une des régions" href="/fr/a-la-une-des-regions/rendermode/previewnoinsite">
+à la Une des régions</a>&nbsp;&gt;
+</li>
+<li class="breadlink">
+<a>
+Expositions / Visites
+</a>
+</li>
+</li>
+</ul>
+<script language="javascript" type="text/javascript">
+function mailpage() {
+chaine_mail = "mailto:?subject=" + escape('Expositions / Visites') + " : ";
+chaine_mail += '&body=' + escape('http://webprep.dmzprive.cite-sciences.fr/fr/a-la-une-des-regions/contenu-acs/wl/1248102503665/expositions-visites/rendermode/previewnoinsite');
+window.location.href = chaine_mail;
+}
+</script>
+<script type="text/javascript" language="javascript">
+var currentFontSize = 0;
+var checkclick = 0;
+$(document).ready(function() {
+var temp = "";
+// Increase Font Size
+$('.increaseFont').click(function() {
+currentFontSize = $('a').css('font-size');
+if (checkclick ==0){
+currentFontSize = 11;
+}
+var currentFontSizeNum = parseFloat(currentFontSize, 10);
+var newFontSize = currentFontSizeNum+1;
+if( newFontSize < 16 ) {
+$('a').css('font-size', newFontSize);
+$('div').css('font-size', newFontSize);
+$('p').css('font-size', newFontSize);
+$('li').css('font-size', newFontSize);
+$('span').css('font-size', newFontSize);
+$('input').css('font-size', newFontSize);
+$('.content').css('font-size', newFontSize);
+}
+checkclick = 1;
+return false;
+});
+// Decrease Font Size
+$(".decreaseFont").click(function() {
+currentFontSize = $('a').css('font-size');
+if( checkclick == 0 ) {
+currentFontSize = 11;
+}
+var currentFontSizeNum = parseFloat(currentFontSize, 10);
+var newFontSize = currentFontSizeNum-1;
+if( newFontSize > 8 ) {
+$('a').css('font-size', newFontSize);
+$('div').css('font-size', newFontSize);
+$('p').css('font-size', newFontSize);
+$('li').css('font-size', newFontSize);
+$('span').css('font-size', newFontSize);
+$('input').css('font-size', newFontSize);
+$('.content').css('font-size', newFontSize);
+}
+checkclick = 1;
+return false;
+});
+});
+$(document).ready(function(){
+var listeLi = document.getElementById("breadcrumb").getElementsByTagName("li");
+var tampon = "";
+var lastElem = listeLi.length -1;
+if( listeLi.length > 4 ) {
+for( var i=0; i < listeLi.length; i++ ) {
+if( listeLi[i].getElementsByTagName("a")[0] == null ) {
+tampon = tampon + listeLi[i].innerHTML.replace(/^\s+|\s+$/g,"");
+} else {
+tampon = tampon + listeLi[i].getElementsByTagName("a")[0].innerHTML.replace(/^\s+|\s+$/g,"");
+}
+}
+if( tampon.length > 125 ) {
+document.getElementById("breadcrumb").getElementsByTagName("li")[1].innerHTML="  ... > ";
+document.getElementById("breadcrumb").getElementsByTagName("li")[2].style.display ='none';
+document.getElementById("breadcrumb").getElementsByTagName("li")[3].style.display ='none';
+document.getElementById("breadcrumb").getElementsByTagName("li")[4].style.display ='none';
+}
+if( tampon.length > 105 ) {
+document.getElementById("breadcrumb").getElementsByTagName("li")[1].innerHTML="  ... > ";
+document.getElementById("breadcrumb").getElementsByTagName("li")[2].style.display ='none';
+document.getElementById("breadcrumb").getElementsByTagName("li")[3].style.display ='none';
+} else if( tampon.length > 85 ) {
+document.getElementById("breadcrumb").getElementsByTagName("li")[1].innerHTML="  ... > ";
+document.getElementById("breadcrumb").getElementsByTagName("li")[2].style.display ='none';
+}
+}
+});
+</script>
+<div class="zoomTexte"><a href="javascript:window.print()" ><img src="/mediacs/images/participer/imprimer.png" alt="imprimer"></a></div>
+<div class="zoomTexte"><a href="javascript:mailpage()"><img src="/mediacs/images/participer/mail.png" alt="mail"></a></div>
+<div class="zoomTexte"><a class="decreaseFont" href="#" ><img src="/mediacs/images/participer/A-.png" alt="dezoom"></a></div>
+<div class="zoomTexte"><a class="increaseFont"  ><img src="/mediacs/images/participer/A+.png" alt="zoom"></a></div>
+<!-- FIN - Scientifica/Nav/BreadCrumb -->
+</div>
+</div>
+<div id="content">
+<div class="sidebarLeft">
+<h1 class="racineMenuLateral">
+Sommaire
+</h1>
+<div id="menulateral" class="menulateral" >
+<!-- DEB - Scientifica/Nav/MenuLateral -->
+<div class="bordureHaut"></div>
+<div class="bordureGauche">
+<div class="bordureDroite">
+<div class="contenu">
+<ul>
+<!-- DEB - Scientifica/Page/SousMenuLateral -->
+<li class="active">
+<a class="label" title="Expositions / Visites"  href="/fr/a-la-une-des-regions/contenu-acs/wl/1248102503665/expositions-visites/rendermode/previewnoinsite" >
+Expositions / Visites
+</a>
+<li>
+<a class="label" title="Rencontres / Débats"  href="/fr/a-la-une-des-regions/contenu-acs/wl/1248102503705/rencontres-debats/rendermode/previewnoinsite" >
+Rencontres / Débats
+</a>
+<li>
+<a class="label" title="Animations / Ateliers"  href="/fr/a-la-une-des-regions/contenu-acs/wl/1248102517679/animations-ateliers/rendermode/previewnoinsite" >
+Animations / Ateliers
+</a>
+<li>
+<a class="label" title="Spectacles vivants"  href="/fr/a-la-une-des-regions/contenu-acs/wl/1248102517684/spectacles-vivants/rendermode/previewnoinsite" >
+Spectacles vivants
+</a>
+</ul></li>
+<!-- FIN - Scientifica/Page/SousMenuLateral -->
+</ul>
+</div>
+</div>
+</div>
+<div class="bordureBas"></div>
+<!-- FIN - Scientifica/Nav/MenuLateral -->
+</div>
+<div id="sidebarLeftPortail" >
+</div>
+<div id="sidebarLeftPage" class="sidebarLeftPage" >
+<div class="container">
+<div class="bordureHaut"></div>
+<div class="bordureGauche">
+<div class="bordureDroite">
+<div class="contenu">
+<div class='widget widgetSearch'>
+<div class="title">Rechercher</div>
+<div class="bloc">
+<div class="content">
+<p>
+<span class="offAndAccessible">
+Pour faire une recherche suivez le lien ci-dessous
+</span>
+</p>
+</div>
+<a class="link"
+href="/fr/a-la-une-des-regions/recherche-acs/wl/1248103956590/rechercher/rendermode/previewnoinsite/t/17"
+title="Consulter la carte"
+target = "_self"
+>
+Consulter la carte
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bordureBas"></div>
+<div style="clear: both"></div>
+<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+</div>
+<div class="container">
+<div class="bordureHaut"></div>
+<div class="bordureGauche">
+<div class="bordureDroite">
+<div class="contenu">
+<div class='widget widgetPartner'>
+<div class="title">Partenaire</div>
+<div class="bloc">
+<a class="link"
+href="http://www.amcsti.fr/"
+title="amcsti"
+target="_blank">
+amcsti
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bordureBas"></div>
+<div style="clear: both"></div>
+<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+</div>
+<div class="container">
+<div class="bordureHaut"></div>
+<div class="bordureGauche">
+<div class="bordureDroite">
+<div class="contenu">
+<div class='widget widgetALaUne'>
+<div class="title">Portail évolutif</div>
+<div class="bloc">
+<div class="content">
+<p>
+<span class="offAndAccessible">
+A la une des régions, suivez le lien ci-dessous
+</span>
+</p>
+</div>
+<a class="link"
+href="/fr/a-la-une-des-regions/contenu-acs/wl/1248103965399/qui-sommes-nous/rendermode/previewnoinsite"
+title="Qui Sommes-Nous ?"
+target = "_self"
+>
+Qui Sommes-Nous ?
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bordureBas"></div>
+<div style="clear: both"></div>
+<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+</div>
+<div class="container">
+<div class="bordureHaut"></div>
+<div class="bordureGauche">
+<div class="bordureDroite">
+<div class="contenu">
+<div class='widget widgetContact'>
+<div class="bloc">
+<a class="link" href='mailto:acs@universcience.fr'>
+Ecrivez nous !
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bordureBas"></div>
+<div style="clear: both"></div>
+<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+</div>
+</div>
+</div>
+<!-- FIN - Scientifica/CSElement/ConstructBody -->
+<div id="inner" class="contenucentral layout3" role="main">
+<div class="elementContenu">
+<div class="bordureHaut"></div>
+<div class="bordureGauche">
+<div class="bordureDroite">
+<div class="contenu">
+<h2 class="title">Expositions / Visites</h2>
+<div class="resultToolBar">
+<p class="multiPageNav">
+<div class="pagination">
+<span class="indexCourant">
+1
+</span><a href="/fr/a-la-une-des-regions/contenu-acs/wl/1248102503665/pagination/packedargs/mode&idWS&pagerech&/packedvals/Result&1248113321645&2&/t/16" class="paginationLink pagesNext">
+2
+</a><a href="/fr/a-la-une-des-regions/contenu-acs/wl/1248102503665/pagination/packedargs/mode&idWS&pagerech&/packedvals/Result&1248113321645&3&/t/16" class="paginationLink pagesNext">
+3
+</a><a href="/fr/a-la-une-des-regions/contenu-acs/wl/1248102503665/pagination/packedargs/mode&amp;idWS&amp;pagerech&amp;/packedvals/Result&amp;1248113321645&amp;2&amp;/t/16" class="paginationButton nextPage">
+&gt;
+</a><a href="/fr/a-la-une-des-regions/contenu-acs/wl/1248102503665/pagination/packedargs/mode&amp;idWS&amp;pagerech&amp;/packedvals/Result&amp;1248113321645&amp;6&amp;/t/16" class="paginationButton lastPage">
+&gt;&gt;
+</a>
+</div>
+<p class="resultCounter">R&eacute;sultats : 29</p>
+</p>
+</div>
+<ul id="resultList">
+<li>
+<div class="virtualColContainer">
+<div class="virtualCol3366pctA">
+<div class="resultMedia">
+<p class="resultMediaImg">
+<a href="http://www.cite-telecoms.com/fr/cite-des-Telecoms-expos-temporaires" target="_blank"><img src="/media-acs/20111021101334-visuel.jpg" title="Missing translation key: locale='fr_FR', key='csi/scientifica/WebServiceACS/Copyright'NASA" alt="Image introuvable"></a>
+</p>
+<p class="resultThemes">
+<br>
+- Espace - Astronomie<br>
+</p>
+</div>
+</div>
+<div class="virtualCol3366pctB">
+<div class="resultData">
+<p class="resultLocation">
+Bretagne
+/C&ocirc;tes-d'Armor /Pleumeur-Bodou <br>
+</p>
+<p class="resultFacility">
+Cit&eacute; des t&eacute;l&eacute;coms
+</p>
+<p class="resultFlag">
+<span class="flagYouth">
+Jeune Public
+</span>
+</p>
+<p class="resultKind">
+Expositions / Visites
+<br>
+Animations / Ateliers
+</p>
+<h4 class="resultTitle">
+Exp&eacute;rience Lune
+</h4>
+<p class="resultDate">
+Du
+01/02/2011
+au
+31/12/2012<br>
+</p>
+<p class="resultDescription">
+Le 21 Juillet 1969, le monde entier retient son souffle. Pour la premi&egrave;re fois un homme va poser le pied sur la lune. Nous en savons depuis, beaucoup plus sur notre satellite naturel, mais il garde toujours une part de myst&egrave;re et ne semble pas encore avoir livr&eacute; tous ses secrets.
+</p>
+<p class="resultEvent"></p>
+<p class="resultLink">
+<a href="http://www.cite-telecoms.com/fr/cite-des-Telecoms-expos-temporaires" target="_blank">
+Pour en savoir plus
+</a>
+</p>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="virtualColContainer">
+<div class="virtualCol3366pctA">
+<div class="resultMedia">
+<p class="resultMediaImg">
+<a href="http://www.relais-sciences.org/index.php?page=agenda_fiche&id_manifestation=853" target="_blank"><img src="/media-acs/ACS_05003.20110422141302.jpg" title="Missing translation key: locale='fr_FR', key='csi/scientifica/WebServiceACS/Copyright'PNR Marais du Cotentin et du Bessin" alt="Image introuvable"></a>
+</p>
+<p class="resultThemes">
+<br>
+- Environnement<br>
+</p>
+</div>
+</div>
+<div class="virtualCol3366pctB">
+<div class="resultData">
+<p class="resultLocation">
+Basse-Normandie
+/Manche /Saint-C&ocirc;me du Mont<br>
+</p>
+<p class="resultFacility">
+Maison du Parc
+</p>
+<p class="resultFlag">
+<span class="flagYouth">
+Jeune Public
+</span>
+</p>
+<p class="resultKind">
+Expositions / Visites
+</p>
+<h4 class="resultTitle">
+Exposition "Migrateurs"
+</h4>
+<p class="resultDate">
+Du
+09/04/2011
+au
+30/12/2012<br>
+</p>
+<p class="resultDescription">
+Les Marais du Cotentin et du Bessin sont un carrefour sur la route de nombreux &ldquo;globetrotters&rdquo;. De ces voyageurs les plus connus au plus surprenants, cette exposition d&eacute;voile les secrets d&rsquo;un ph&eacute;nom&egrave;ne qui intrigue et qui passionne : la migration.
+</p>
+<p class="resultEvent"></p>
+<p class="resultLink">
+<a href="http://www.relais-sciences.org/index.php?page=agenda_fiche&id_manifestation=853" target="_blank">
+Pour en savoir plus
+</a>
+</p>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="virtualColContainer">
+<div class="virtualCol3366pctA">
+<div class="resultMedia">
+<p class="resultMediaImg">
+<a href="http://www.ccstilorient.org/" target="_blank"><img src="/media-acs/20111021101657-visuel.jpg" title="Missing translation key: locale='fr_FR', key='csi/scientifica/WebServiceACS/Copyright'CCSTI Maison de la mer " alt="Image introuvable"></a>
+</p>
+<p class="resultThemes">
+<br>
+- Environnement<br>
+</p>
+</div>
+</div>
+<div class="virtualCol3366pctB">
+<div class="resultData">
+<p class="resultLocation">
+Bretagne
+/Morbihan /Lorient<br>
+</p>
+<p class="resultFacility">
+CCSTI Maison de la mer
+</p>
+<p class="resultFlag">
+<span class="flagYouth">
+Jeune Public
+</span>
+</p>
+<p class="resultKind">
+Expositions / Visites
+<br>
+Animations / Ateliers
+</p>
+<h4 class="resultTitle">
+Les classes d'&eacute;tudes portuaires
+</h4>
+<p class="resultDate">
+Du
+05/09/2011
+au
+31/12/2012<br>
+</p>
+<p class="resultDescription">
+Des changements se profilent : en effet La Thalassa, navire d&eacute;couverte de l&rsquo;oc&eacute;anologie, ferme ses portes en d&eacute;cembre 2011. Les interventions propos&eacute;es sur le navire sont encore d&rsquo;actualit&eacute; jusqu&rsquo;&agrave; cette date ; de nouvelles propositions p&eacute;dagogiques seront mises en place en septembre.
+</p>
+<p class="resultEvent"></p>
+<p class="resultLink">
+<a href="http://www.ccstilorient.org/" target="_blank">
+Pour en savoir plus
+</a>
+</p>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="virtualColContainer">
+<div class="virtualCol3366pctA">
+<div class="resultMedia">
+<p class="resultMediaImg">
+<a href="http://www.musee-impression.com/expositions/dossierdepresse.pdf" target="_blank"><img src="/media-acs/20111124084623-visuel.jpg" title="Missing translation key: locale='fr_FR', key='csi/scientifica/WebServiceACS/Copyright'Mus&eacute;e de l'impression sur &eacute;toffes" alt="Image introuvable"></a>
+</p>
+<p class="resultThemes">
+<br>
+- Histoire des sciences<br>
+</p>
+</div>
+</div>
+<div class="virtualCol3366pctB">
+<div class="resultData">
+<p class="resultLocation">
+Alsace
+/Haut-Rhin /Mulhouse<br>
+</p>
+<p class="resultFacility">
+Mus&eacute;e de l'impression sur &eacute;toffes
+</p>
+<p class="resultKind">
+Expositions / Visites
+</p>
+<h4 class="resultTitle">
+Il &eacute;tait une fois...
+</h4>
+<p class="resultDate">
+Du
+10/11/2011
+au
+14/10/2012<br>
+</p>
+<p class="resultDescription">
+L'enfant et le tissu imprim&eacute; de 1750 &agrave; nos jours
+</p>
+<p class="resultEvent"></p>
+<p class="resultLink">
+<a href="http://www.musee-impression.com/expositions/dossierdepresse.pdf" target="_blank">
+Pour en savoir plus
+</a>
+</p>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="virtualColContainer">
+<div class="virtualCol3366pctA">
+<div class="resultMedia">
+<p class="resultMediaImg">
+<a href="http://www.science-animation.org/fr/notre-actualite/agenda/exposition-curiosites-et-merveilles-633.html" target="_blank"><img src="/media-acs/20111213155343-visuel.jpg" title="Missing translation key: locale='fr_FR', key='csi/scientifica/WebServiceACS/Copyright'Mus&eacute;e Fenaille" alt="Image introuvable"></a>
+</p>
+<p class="resultThemes">
+<br>
+- Histoire des sciences<br>
+</p>
+</div>
+</div>
+<div class="virtualCol3366pctB">
+<div class="resultData">
+<p class="resultLocation">
+Midi-Pyr&eacute;n&eacute;es
+/Aveyron /Rodez<br>
+</p>
+<p class="resultFacility">
+Mus&eacute;e Fenaille
+</p>
+<p class="resultKind">
+Expositions / Visites
+</p>
+<h4 class="resultTitle">
+Curiosit&eacute;s et merveilles
+</h4>
+<p class="resultDate">
+Du
+08/12/2011
+au
+20/05/2012<br>
+</p>
+<p class="resultDescription">
+Voyages dans les collections en r&eacute;serve.
+Des premi&egrave;res donations en 1837 aux derni&egrave;res acquisitions, un parcours se dessine parmi les pi&egrave;ces conserv&eacute;es en r&eacute;serve ou se m&ecirc;lent le curieux et le merveilleux.
+</p>
+<p class="resultEvent"></p>
+<p class="resultLink">
+<a href="http://www.science-animation.org/fr/notre-actualite/agenda/exposition-curiosites-et-merveilles-633.html" target="_blank">
+Pour en savoir plus
+</a>
+</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<div class="resultToolBar">
+<p class="multiPageNav">
+<div class="pagination">
+<span class="indexCourant">
+1
+</span><a href="/fr/a-la-une-des-regions/contenu-acs/wl/1248102503665/pagination/packedargs/mode&idWS&pagerech&/packedvals/Result&1248113321645&2&/t/16" class="paginationLink pagesNext">
+2
+</a><a href="/fr/a-la-une-des-regions/contenu-acs/wl/1248102503665/pagination/packedargs/mode&idWS&pagerech&/packedvals/Result&1248113321645&3&/t/16" class="paginationLink pagesNext">
+3
+</a><a href="/fr/a-la-une-des-regions/contenu-acs/wl/1248102503665/pagination/packedargs/mode&amp;idWS&amp;pagerech&amp;/packedvals/Result&amp;1248113321645&amp;2&amp;/t/16" class="paginationButton nextPage">
+&gt;
+</a><a href="/fr/a-la-une-des-regions/contenu-acs/wl/1248102503665/pagination/packedargs/mode&amp;idWS&amp;pagerech&amp;/packedvals/Result&amp;1248113321645&amp;6&amp;/t/16" class="paginationButton lastPage">
+&gt;&gt;
+</a>
+</div>
+<p class="resultCounter">R&eacute;sultats : 29</p>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="bordureBas"></div>
+<div style="clear:both"></div>
+</div>
+<!-- Fin des pages placees -->
+</div>
+<!-- DEB - Scientifica/CSElement/ConstructEndBody -->
+<!-- Fermer une div qui s'ouvre seulement dans les page de contenu Cite et palais  -->
+<div class="sidebarRight">
+<div id="sidebarRightPortail" class="sidebarRightPortail">
+<!-- DEB - Scientifica/WidgetRetrouvezNous/Lateral -->
+<div id="retrouveznous" class="retrouveznous">
+<div id="titreRetrouveznous" class="titreRetrouveznous" onmouseover="this.style.cursor='pointer';" >
+<img src="/mediacs/images/bsistf/retrouveznous.png" class="imgFooter" alt="Retrouvez-nous" onclick="imgRetrouvezNous_onclick();" />
+<script language="javascript" type="text/javascript">
+function imgRetrouvezNous_onclick() {
+if( document.getElementById("mainRetrouveznous").style.display == "block" ) {
+document.getElementById("mainRetrouveznous").style.display = "none";
+} else {
+document.getElementById("mainRetrouveznous").style.display = "block";
+}
+}
+</script>
+</div>
+<script language="javascript" type="text/javascript">
+function shareContent(urlSharer) {
+var targetURL = "http://webprep.dmzprive.cite-sciences.fr";
+var loc = "";
+if( targetURL && targetURL.length > 0 ) {
+loc = targetURL;
+}
+var apos = loc.indexOf("#");
+loc = (apos > 0 ? loc.substring(0, apos) : loc);
+var urlLien = urlSharer + encodeURIComponent(loc) + "&title=" + encodeURIComponent("null");
+window.open(urlLien);
+}
+</script>
+<div id="mainRetrouveznous" class="mainRetrouveznous" style="display:none;">
+<div class="bordureHaut"></div>
+<div class="bordureGauche">
+<div class="bordureDroite">
+<div class="contenu">
+<div id="titreContenuRetrouveznous" class="titreContenuRetrouveznous">Ajouter aux favoris / Partager</div>
+<div id="contenuRetrouveznous" class="contenuRetrouveznous" >
+<div id="lineRetrouveznous" class="lineRetrouveznous">
+<a class="lienReseauFb" href="javascript:shareContent('http://www.facebook.com/sharer.php?u=');">Facebook</a>
+</div>
+<div id="lineRetrouveznous" class="lineRetrouveznous">
+<a class="lienReseauTwit"   href="javascript:shareContent('http://twitter.com/timeline/home?status=');">Sur Twitter</a>
+</div>
+<div id="lineRetrouveznous" class="lineRetrouveznous">
+<a class="lienReseauDigg"   href="javascript:shareContent('http://digg.com/submit?phase=3&url=');">Sur Digg</a>
+</div>
+<div id="lineRetrouveznous" class="lineRetrouveznous">
+<a class="lienReseauDelicious"   href="javascript:shareContent('http://del.icio.us/post?v=2&amp;url=');">Delicious</a>
+</div>
+<div id="lineRetrouveznous" class="lineRetrouveznous">
+<a class="lienReseauMyspace"   href="javascript:shareContent('http://www.myspace.com/Modules/PostTo/Pages/?c=http://www.liberation.fr/culture/0101611863-bono-appelle-a-lutter-contre-le-telechargement-illegal');">Myspace</a>
+</div>
+<div id="lineRetrouveznous" class="lineRetrouveznous">
+<a class="lienReseauGoogle"   href="javascript:shareContent('http://fusion.google.com/add?feedurl=http://www.liberation.fr/rss/culture,16');">Google</a>
+</div>
+<div id="lineRetrouveznous" class="lineRetrouveznous" >
+<a class="lienReseauLinkedIn"   href="javascript:shareContent('http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.rue89.com%2F2010%2F01%2F03%2Fbono-veut-la-decennie-courtoise-et-sans-telechargement-illegal-132166&title=Bono+veut+la+d%C3%A9cennie+courtoise+et+sans+t%C3%A9l%C3%A9chargement+ill%C3%A9gal');">LinkedIn</a>
+</div>
+<div id="lineRetrouveznous" class="lineRetrouveznous">
+<a class="lienReseauLinkedIn"   href="javascript:shareContent('http://www.scoopeo.com/scoop/new?newurl=');">Sur Scoopeo</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bordureBas"></div>
+</div>
+</div>
+<!-- FIN - Scientifica/WidgetRetrouvezNous/Lateral -->
+</div>
+<div class="sidebarRightPage">
+<!-- DEB - Scientifica/SectionSTF/Detail -->
+<div class='sectionCote  '>
+<h2>
+Pour les Jeunes
+</h2>
+<div class="presection">
+</div>
+<div class="sec_central">
+<div class="sec">
+</div>
+<div class="sec100">
+<!-- DEB - Scientifica/Multimedia/Slideshow/Carousel -->
+<div class="ss_outer">
+<div class="ss_sous_titre">
+Pour les jeunes
+</div>
+<div class="wdg_slideshow_carousel">
+<div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43071/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120327162038-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+derniers jours pour le ...<br>
+BRETAGNE
+</span><span class="wdg_ss_over_text">
+Derniers jours pour les roches armoricaines
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42066/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120328160631-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+ces &icirc;les qui font r&ecirc;ver<br>
+ALSACE
+</span><span class="wdg_ss_over_text">
+Ces &icirc;les qui font r&ecirc;ver
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42068/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120328161640-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+les fleurs du printemps<br>
+ALSACE
+</span><span class="wdg_ss_over_text">
+Les fleurs du printemps
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42058/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120322170738-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+gros plan sur les inse ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Gros plan sur les insectes (Stage vacances 8-15ans)
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43059/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120323144858-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+stage-atelier : scienc ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Stage-atelier : Sciences'Action
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42067/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120328160800-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+10&egrave;me march&eacute; aux plantes<br>
+ALSACE
+</span><span class="wdg_ss_over_text">
+10&egrave;me march&eacute; aux plantes
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43057/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120323144250-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+stage petits scientifi ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Stage Petits scientifiques
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42060/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120328150830-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+consom'attitudes. pass ...<br>
+ALSACE
+</span><span class="wdg_ss_over_text">
+Consom'attitudes. Passe en mode &eacute;co !
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42051/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120322163825-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+les vacances chez fermat<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Les vacances chez Fermat
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43055/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120323122322-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+quitter la terre pour  ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Quitter la Terre pour l'espace ! (Stage vacances 8-15ans)
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42070/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120329104732-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+titanic, retour &agrave; cher ...<br>
+BASSE-NORMANDIE
+</span><span class="wdg_ss_over_text">
+Titanic, Retour &agrave; Cherbourg
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;40079/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120227140914-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+circuits portuaires de ...<br>
+BRETAGNE
+</span><span class="wdg_ss_over_text">
+Circuits portuaires de printemps
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43050/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120323113037-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+les mercredis des scie ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Les Mercredis des Sciences "100% labo"
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43068/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120327155956-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+venez en famille* ! gr ...<br>
+BRETAGNE
+</span><span class="wdg_ss_over_text">
+Venez en famille* ! Gratuit pour les enfants ( *famille = 1 ou 2 adultes + 3 enfants max.)
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;40078/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120227140601-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+vous avez dit chimie ?<br>
+BRETAGNE
+</span><span class="wdg_ss_over_text">
+Vous avez dit Chimie ?
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43069/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120327160512-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+vous avez dit chimie ?<br>
+BRETAGNE
+</span><span class="wdg_ss_over_text">
+Vous avez dit Chimie ?
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;41086/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120227164828-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+biodiversit&eacute;<br>
+ALSACE
+</span><span class="wdg_ss_over_text">
+Biodiversit&eacute;
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;39054/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20120127090130-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+momix<br>
+ALSACE
+</span><span class="wdg_ss_over_text">
+Momix
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;29055/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20110928095318-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+3e troph&eacute;e electis<br>
+ALSACE
+</span><span class="wdg_ss_over_text">
+3e Troph&eacute;e Electis
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;30059/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20111021101657-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+les classes d'&eacute;tudes p ...<br>
+BRETAGNE
+</span><span class="wdg_ss_over_text">
+Les classes d'&eacute;tudes portuaires
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;9051/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/ACS_05003.20110422141302.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+exposition "migrateurs"<br>
+BASSE-NORMANDIE
+</span><span class="wdg_ss_over_text">
+Exposition "Migrateurs"
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239533/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;30058/t/12">
+<img class="wdg_ss_background_image" src="/media-acs/20111021101334-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+exp&eacute;rience lune <br>
+BRETAGNE
+</span><span class="wdg_ss_over_text">
+Exp&eacute;rience Lune
+</span>
+</div>
+</div>
+</div>
+<!-- FIN - Scientifica/Multimedia/Slideshow/Carousel -->
+<a class="lienVersToutesActus"
+href="/fr/a-la-une-des-regions/contenu-acs/wl/1248124585985/tout-pour-les-jeunes/rendermode/previewnoinsite"
+title="Tout pour les jeunes"
+target = "_self"
+>
+Tout pour les jeunes
+</a>
+</div>
+</div>
+</div>
+<!-- FIN - Scientifica/SectionSTF/Detail -->
+<!-- DEB - Scientifica/SectionSTF/Detail -->
+<div class='sectionCote  '>
+<h2>
+Actualités du mois
+</h2>
+<div class="presection">
+</div>
+<div class="sec_central">
+<div class="sec">
+</div>
+<div class="sec100">
+<!-- DEB - Scientifica/Multimedia/Slideshow/Carousel -->
+<div class="ss_outer">
+<div class="ss_sous_titre">
+Actualité de mois
+</div>
+<div class="wdg_slideshow_carousel">
+<script type="json/init-parent-data">
+{
+"imageBackground" : "/cms/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1248129696465&ssbinary=true",
+"imageBackgroundHauteur" : "150",
+"imageBackgroundLargeur" : "200"
+}
+</script>
+<div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43068">
+<img class="wdg_ss_background_image" src="/media-acs/20120327155956-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+venez en famille* ! gr ...<br>
+BRETAGNE
+</span><span class="wdg_ss_over_text">
+Venez en famille* ! Gratuit pour les enfants ( *famille = 1 ou 2 adultes + 3 enfants max.)
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42071">
+<img class="wdg_ss_background_image" src="/media-acs/20120329105059-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+sleeping art, l'art n' ...<br>
+BASSE-NORMANDIE
+</span><span class="wdg_ss_over_text">
+Sleeping art, l'art n'est pas fait pour b&acirc;iller !
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43050">
+<img class="wdg_ss_background_image" src="/media-acs/20120323113037-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+les mercredis des scie ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Les Mercredis des Sciences "100% labo"
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;40079">
+<img class="wdg_ss_background_image" src="/media-acs/20120227140914-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+circuits portuaires de ...<br>
+BRETAGNE
+</span><span class="wdg_ss_over_text">
+Circuits portuaires de printemps
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42051">
+<img class="wdg_ss_background_image" src="/media-acs/20120322163825-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+les vacances chez fermat<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Les vacances chez Fermat
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43055">
+<img class="wdg_ss_background_image" src="/media-acs/20120323122322-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+quitter la terre pour  ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Quitter la Terre pour l'espace ! (Stage vacances 8-15ans)
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42060">
+<img class="wdg_ss_background_image" src="/media-acs/20120328150830-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+consom'attitudes. pass ...<br>
+ALSACE
+</span><span class="wdg_ss_over_text">
+Consom'attitudes. Passe en mode &eacute;co !
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42070">
+<img class="wdg_ss_background_image" src="/media-acs/20120329104732-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+titanic, retour &agrave; cher ...<br>
+BASSE-NORMANDIE
+</span><span class="wdg_ss_over_text">
+Titanic, Retour &agrave; Cherbourg
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43058">
+<img class="wdg_ss_background_image" src="/media-acs/20120323144610-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+sommes-nous tous de la ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Sommes-nous tous de la m&ecirc;me famille ?
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43057">
+<img class="wdg_ss_background_image" src="/media-acs/20120323144250-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+stage petits scientifi ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Stage Petits scientifiques
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42064">
+<img class="wdg_ss_background_image" src="/media-acs/20120328160144-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+la guerre de 1914-1918 ...<br>
+ALSACE
+</span><span class="wdg_ss_over_text">
+La guerre de 1914-1918 : la vie quotidienne des combattants r&eacute;v&eacute;l&eacute;e par l'arch&eacute;ologie
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42067">
+<img class="wdg_ss_background_image" src="/media-acs/20120328160800-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+10&egrave;me march&eacute; aux plantes<br>
+ALSACE
+</span><span class="wdg_ss_over_text">
+10&egrave;me march&eacute; aux plantes
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42058">
+<img class="wdg_ss_background_image" src="/media-acs/20120322170738-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+gros plan sur les inse ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Gros plan sur les insectes (Stage vacances 8-15ans)
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43059">
+<img class="wdg_ss_background_image" src="/media-acs/20120323144858-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+stage-atelier : scienc ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Stage-atelier : Sciences'Action
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43061">
+<img class="wdg_ss_background_image" src="/media-acs/20120323150752-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+colloque :  les entret ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Colloque :  Les Entretiens de Toulouse 2012 (Rencontres A&eacute;rospatiales)
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43060">
+<img class="wdg_ss_background_image" src="/media-acs/20120323150008-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+veill&eacute;e nocturne "a la ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Veill&eacute;e nocturne "A la D&eacute;couverte des Amphibiens !"
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42066">
+<img class="wdg_ss_background_image" src="/media-acs/20120328160631-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+ces &icirc;les qui font r&ecirc;ver<br>
+ALSACE
+</span><span class="wdg_ss_over_text">
+Ces &icirc;les qui font r&ecirc;ver
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42068">
+<img class="wdg_ss_background_image" src="/media-acs/20120328161640-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+les fleurs du printemps<br>
+ALSACE
+</span><span class="wdg_ss_over_text">
+Les fleurs du printemps
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43062">
+<img class="wdg_ss_background_image" src="/media-acs/20120323151128-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+limogne en quercy<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Limogne en quercy
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43070">
+<img class="wdg_ss_background_image" src="/media-acs/20120327160917-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+quel droit pour les &eacute;n ...<br>
+BRETAGNE
+</span><span class="wdg_ss_over_text">
+Quel droit pour les &eacute;nergies marines ?
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43063">
+<img class="wdg_ss_background_image" src="/media-acs/20120323152346-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+a la recherche des ori ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+A la recherche des origines de l'Univers : la mission spatiale Planck
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43064">
+<img class="wdg_ss_background_image" src="/media-acs/20120323152835-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+enigma, une machine, u ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Enigma, une machine, une histoire hors du commun...
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43065">
+<img class="wdg_ss_background_image" src="/media-acs/20120323153103-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+la m&ecirc;l&eacute;e num&eacute;rique<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+La M&ecirc;l&eacute;e Num&eacute;rique
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43066">
+<img class="wdg_ss_background_image" src="/media-acs/20120323153407-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+le doute et la prehist ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Le DOUTE et la PREHISTOIRE Que pouvons-nous savoir du pass&eacute; lointain ? A partir de quels indices ?
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43067">
+<img class="wdg_ss_background_image" src="/media-acs/20120323153656-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+les butineurs au jardi ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span><span class="wdg_ss_over_text">
+Les butineurs au jardin et au verger (Visite)
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;42062">
+<img class="wdg_ss_background_image" src="/media-acs/20120328155547-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+la m&eacute;decine &eacute;lectrique ...<br>
+ALSACE
+</span><span class="wdg_ss_over_text">
+La m&eacute;decine &eacute;lectrique du 18e au d&eacute;but 20e
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/affichage/packedargs/nbResultsExpected&amp;newsId/packedvals/5&amp;43071">
+<img class="wdg_ss_background_image" src="/media-acs/20120327162038-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+derniers jours pour le ...<br>
+BRETAGNE
+</span><span class="wdg_ss_over_text">
+Derniers jours pour les roches armoricaines
+</span>
+</div>
+</div>
+</div>
+<!-- FIN - Scientifica/Multimedia/Slideshow/Carousel -->
+<a class="lienVersToutesActus"
+href="/fr/a-la-une-des-regions/contenu-acs/wl/1248116740923/actualites-du-mois/rendermode/previewnoinsite"
+title="Actualités du mois"
+target = "_self"
+>
+Actualités du mois
+</a>
+</div>
+</div>
+</div>
+<!-- FIN - Scientifica/SectionSTF/Detail -->
+<!-- DEB - Scientifica/SectionSTF/Detail -->
+<div class='sectionCote  '>
+<h2>
+Coups de coeur de la semaine
+</h2>
+<div class="presection">
+</div>
+<div class="sec_central">
+<div class="sec">
+</div>
+<div class="sec100">
+<!-- DEB - Scientifica/Multimedia/Slideshow/Carousel -->
+<div class="ss_outer">
+<div class="ss_sous_titre">
+Coups de coeur de la semaine
+</div>
+<div class="wdg_slideshow_carousel">
+<div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239511/affichage/packedargs/nbResultsExpected&amp;newsId&amp;diaporama/packedvals/5&amp;41087&amp;false/t/12" title="A votre sant&eacute; !">
+<img class="wdg_ss_background_image" src="/media-acs/20120227165422-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+a votre sant&eacute; !<br>
+ALSACE
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239511/affichage/packedargs/nbResultsExpected&amp;newsId&amp;diaporama/packedvals/5&amp;43069&amp;false/t/12" title="Vous avez dit Chimie ?">
+<img class="wdg_ss_background_image" src="/media-acs/20120327160512-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+vous avez dit chimie ?<br>
+BRETAGNE
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239511/affichage/packedargs/nbResultsExpected&amp;newsId&amp;diaporama/packedvals/5&amp;42070&amp;false/t/12" title="Titanic, Retour &agrave; Cherbourg">
+<img class="wdg_ss_background_image" src="/media-acs/20120329104732-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+titanic, retour &agrave; cher ...<br>
+BASSE-NORMANDIE
+</span>
+</div><div href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239511/affichage/packedargs/nbResultsExpected&amp;newsId&amp;diaporama/packedvals/5&amp;43058&amp;false/t/12" title="Sommes-nous tous de la m&ecirc;me famille ?">
+<img class="wdg_ss_background_image" src="/media-acs/20120323144610-visuel.jpg" style="
+width:149px; height: 115px;
+" alt="Image introuvable"><span class="wdg_ss_top_text">
+sommes-nous tous de la ...<br>
+MIDI-PYR&Eacute;N&Eacute;ES
+</span>
+</div>
+</div>
+</div>
+<!-- FIN - Scientifica/Multimedia/Slideshow/Carousel -->
+<a class="lienVersToutesActus"
+href="/fr/a-la-une-des-regions/contenu-acs/wl/1248123239511/coups-de-coeur-de-la-semaine/rendermode/previewnoinsite/t/29"
+title="Coups de coeur de la semaine"
+target = "_self"
+>
+Coups de coeur de la semaine
+</a>
+</div>
+</div>
+</div>
+<!-- FIN - Scientifica/SectionSTF/Detail -->
+<div class="bordureHaut"></div>
+<div class="bordureGauche">
+<div class="bordureDroite">
+<div class="contenu">
+<div class="widget carrousel">
+<div class="title">Evènements</div>
+<div class="container">
+<div class="carrousel">
+<div class="box box-inner">
+<div class="carousel type-1">
+<ul style="width: 169px;">
+<li>
+<div>
+<span class="texteBas">Semaine du cerveau<br/></span>
+<a href='/fr/a-la-une-des-regions/contenu-acs/wl/1248123239543/evenement/packedargs/eventId&amp;eventCid/packedvals/1&amp;1248119660407/rendermode/previewnoinsite'>
+<img src='/cms/Satellite?blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1248119661893&amp;ssbinary=true' title = 'Semaine du cerveau'>
+</a>
+</div>
+</li>
+<li>
+<div>
+<span class="texteBas">Printemps des planétariums<br/></span>
+<a href='/fr/a-la-une-des-regions/contenu-acs/wl/1248123239543/evenement/packedargs/eventId&amp;eventCid/packedvals/12&amp;1248119689535/rendermode/previewnoinsite'>
+<img src='/cms/Satellite?blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1248119689705&amp;ssbinary=true' title = 'Printemps des planétariums'>
+</a>
+</div>
+</li>
+<li>
+<div>
+<span class="texteBas">Journée mondiale de l'eau<br/></span>
+<a href='/fr/a-la-une-des-regions/contenu-acs/wl/1248123239543/evenement/packedargs/eventId&amp;eventCid/packedvals/8&amp;1248119679850/rendermode/previewnoinsite'>
+<img src='/cms/Satellite?blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1248128843798&amp;ssbinary=true' title = 'Journée mondiale de l'eau'>
+</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bordureBas"></div>
+<div style="clear: both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<!-- DEB - Scientifica/ParametresPortailSTF/Footer -->
+<div id="footer">
+<img src="/mediacs/images/bsistf/footerLogo.png" class="imgFooter" alt="" />
+<div class="separator"></div>
+<div class="linkList">
+<div id="recherche" class="recherche">
+<!-- DEB - Scientifica/CSElement/Search/SearchBox -->
+<span class='libelleRecherche'>
+Recherche
+</span>
+<form name="searchbox" method="post" action="/cms/Satellite?c=Page&amp;cid=1239024269562&amp;pagename=EScienceRecherche%2FPage%2FPageRecherche%2FClassique&amp;pid=1239024256977&amp;rendermode=previewnoinsite&amp;urw_idsite=1239024256977" onsubmit="return postForm(this);" target="_self">
+<input type="hidden" name="Page" value="Page" />
+<input  class="query" type="text" accesskey="r" name="q" value="Recherche" onfocus="if(this.value == 'Recherche') this.value='';" />
+<input class="submit" type="submit" value="" />
+</form>
+<script language="javascript">
+function postForm(frm) {
+frm.q.value = escape(frm.q.value);
+return true;
+}
+</script>
+<!-- FIN - Scientifica/CSElement/Search/SearchBox -->
+</div>
+</div>
+<div class="separator"></div>
+<div class="linkList">
+<a href='/fr/accueil/rendermode/previewnoinsite' class="title title_SCI">
+universcience.fr
+</a>
+<!-- DEB - Scientifica/ParametresPortailSTF/FooterLinkList -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<a
+target	="_self"
+href	='/fr/universcience/contenu/e/1239030430776/nous-contacter/rendermode/previewnoinsite'
+title	="Nous contacter">
+Nous contacter
+</a>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<a
+target	="_self"
+href	='/fr/universcience/contenu/e/1239030430563/plan-du-site/rendermode/previewnoinsite'
+title	="Plan du site">
+Plan du site
+</a>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<a
+target	="_self"
+href	='/fr/universcience/contenu/e/1239030430780/mentions-legales/rendermode/previewnoinsite'
+title	="Mentions légales">
+Mentions légales
+</a>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<a
+target	="_self"
+href	='/fr/universcience/contenu/e/1239030430783/credits/rendermode/previewnoinsite'
+title	="Crédits">
+Crédits
+</a>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<a
+target	="_self"
+href	='/fr/universcience/contenu/e/1239030430786/conditions-generales-d-utilisation/rendermode/previewnoinsite'
+title	="Conditions générales d&#39;utilisation">
+Conditions générales d&#39;utilisation
+</a>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- FIN - Scientifica/ParametresPortailSTF/FooterLinkList -->
+</div>
+<div class="separator"></div>
+<div class="linkList">
+<div style="height: 65px">
+<!-- DEB - Scientifica/ParametresPortailSTF/FooterLinkList -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<div class="lien">
+<a
+target	="_self"
+href	='/fr/cite-des-sciences/rendermode/previewnoinsite'
+title	="Cité des sciences">
+Cité des sciences
+</a>
+</div>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<div class="lien">
+<a
+target	="_self"
+href	='/fr/cite-des-sciences/contenu/c/1239024053526/tarifs-et-billets/rendermode/previewnoinsite'
+title	="Tarifs et billets">
+Tarifs et billets
+</a>
+</div>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<a
+href	="http://www.boutiquesdemusees.fr/fr/boutique/musees/la-cite-des-sciences-et-de-industrie?par=98"
+target	="_blank"
+title	='Boutique'>
+Boutique
+</a>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<a
+href	="http://www.palais-decouverte.fr/index.php"
+target	="_blank"
+title	='Palais de la découverte'>
+Palais de la découverte
+</a>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<a
+target	="_self"
+href	='/fr/universcience/contenu/e/1248129770757/informations-pratiques/rendermode/previewnoinsite'
+title	="Infos pratiques">
+Infos pratiques
+</a>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<a
+href	="http://www.palais-decouverte.fr/index.php?id=970"
+target	="_self"
+title	='Groupes'>
+Groupes
+</a>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<a
+href	="http://www.lageode.fr/"
+target	="_self"
+title	='La Géode'>
+La Géode
+</a>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- FIN - Scientifica/ParametresPortailSTF/FooterLinkList -->
+</div>
+</div>
+<div class="separator"></div>
+<div class="linkList">
+<!-- DEB - Scientifica/ParametresPortailSTF/FooterLinkList -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<a
+target	="_self"
+href	='/fr/professionnels/rendermode/previewnoinsite'
+title	="Professionnels">
+Professionnels
+</a>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<a
+href	="http://www.cite-sciences.fr/cs/Satellite?pagename=SitePresse/Accueil"
+target	="_self"
+title	='Espace presse'>
+Espace presse
+</a>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<div class="lien">
+<a
+target	="_self"
+href	='/fr/professionnels/contenu/c/1239022830695/recrutement/rendermode/previewnoinsite'
+title	="Recrutement">
+Recrutement
+</a>
+</div>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<div class="lien">
+<a
+target	="_self"
+href	='/fr/professionnels/contenu/c/1239022830680/marches-publics/rendermode/previewnoinsite'
+title	="Marchés publics">
+Marchés publics
+</a>
+</div>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<a
+href	="http://www.cite-sciences.fr/francais/fondation-villette-entreprises/"
+target	="_self"
+title	='Fonds de dotation Universcience Partenaires'>
+Fonds de dotation Universcience Partenaires
+</a>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- DEB - Scientifica/LienSTF/LienSTF/Detail/ -->
+<div class="lienSTF">
+<a
+href	="http://www.cite-sciences.fr/francais/ala_cite/centre-congres-villette/"
+target	="_self"
+title	='Centre des congrès'>
+Centre des congrès
+</a>
+</div>
+<!-- FIN - Scientifica/LienSTF/LienSTF/Detail -->
+<!-- FIN - Scientifica/ParametresPortailSTF/FooterLinkList -->
+</div>
+</div>
+<!-- DEB - Scientifica/ParametresPortailSTF/FooterPdp -->
+<div class="liensBasDePage">
+<span>
+Retrouver universcience sur :
+</span>
+<a target="_blank" class="facebook" href="http://www.facebook.com/pages/Universcience/203962418567">
+sur Facebook
+</a>
+<a target="_blank" class="dailymotion" href="http://www.dailymotion.com/universcience">
+sur DailyMotion
+</a>
+<a target="_blank" class="twitter" href="http://twitter.com/universcience">
+sur Twitter
+</a>
+<a target="_blank" class="rss" href="http://www.cite-sciences.fr/francais/aide/syndication/index.php">
+Flux RSS
+</a>
+<a class="copyright">
+Copyright universcience.fr 2010
+</a>
+</div>
+<!-- FIN - Scientifica/ParametresPortailSTF/FooterPdp -->
+<!-- FIN - Scientifica/ParametresPortailSTF/Footer -->
+<!-- DEB - Scientifica/CSElement/GenerateMediaTags -->
+<script type="jquery/onload">
+//<!--
+window._PJS=0;
+$.getScript("http://prof.estat.com/js/ml.js",function(){
+if(_PJS) _estatl("213013202754","","ALaUneDesRegions-Accueil","Expositions / Visites","","");
+});
+//-->
+</script>
+<noscript>
+<img src="http://prof.estat.com/m/web/213013202754?c=ALaUneDesRegions-Accueil&p=Expositions / Visites&l3=&l4=" border="0px" width="1px" height="1px" />
+</noscript>
+<!-- FIN - Scientifica/CSElement/GenerateMediaTags -->
+</body>
+</html>
+<!-- FIN - Scientifica/CSElement/ConstructEndBody -->

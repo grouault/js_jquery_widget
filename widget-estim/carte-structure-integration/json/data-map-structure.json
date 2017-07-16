@@ -1,0 +1,28 @@
+{
+	"datas": {
+		"points": [
+			
+			{
+				"lat": "48.8749326",
+				"lng": "2.3346053",
+				"title": "Titre de la structure",
+				"list": [
+					{
+						"title": "60 Avenue Henri Guillaumet, 31500 Toulouse",
+						"img": "img/demo/Machine_Getter.jpg"
+					}
+				]
+			},
+			{
+				"lat": "48.8737326",
+				"lng": "2.3348053",
+				"title": "Structure sans image",
+				"list": [
+					{
+						"title": "Lorem ipsum dolor sit amet et mergitur contasque ut. Lorem ipsum dolor sit amet et mergitur contasque ut. Lorem ipsum dolor sit amet et mergitur contasque ut. Lorem ipsum dolor sit amet et mergitur contasque ut. Lorem ipsum dolor sit amet et mergitur contasque ut. Lorem ipsum dolor sit amet et mergitur contasque ut. "
+					}
+				]
+			}
+		]
+	}
+}

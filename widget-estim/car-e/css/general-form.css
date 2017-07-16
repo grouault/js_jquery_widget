@@ -1,0 +1,213 @@
+/*
+Styles génériques pour les formulaires : 
+Utilisés dans :
+- slider.css
+- user-form.css
+- structure-form.css
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.estim-portail .column1{
+	margin-right: 2%;
+	width: 48%;
+	float: left;
+}
+
+.estim-portail .column2{
+	float: left;
+	width: 50%;
+}
+
+.estim-portail .column1 fieldset:first-child,
+.estim-portail .column2 fieldset:first-child {
+	margin-top: 0px;
+}
+
+.estim-portail fieldset{
+    margin-top: 20px;
+}
+
+.estim-portail fieldset legend{
+	font-size: 12px;
+    font-weight: normal;
+}
+
+.estim-portail ul.champs > li {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.estim-portail ul.champs > li .label label{
+	float: right;
+	text-align: right;
+	font-weight: normal;
+}
+
+.estim-portail ul.champs .control-group{
+	margin-bottom: 0px;
+}
+
+.estim-portail .mandatory-fields{
+	text-transform: uppercase;
+}
+
+/* LABEL
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.estim-portail .label{
+	width: 30%;
+    float: left;
+    height: auto;
+	background-color: transparent;
+	color: #242424;
+	text-shadow: none;
+}
+
+.estim-portail label {
+    text-transform: uppercase;
+}
+
+/*
+.label label {
+    display: inline-block;
+    float: right;
+    margin-top: 5px;
+    padding-right: 5px;
+    text-align: right;
+    text-transform: uppercase;
+    width: 65%;
+}
+*/
+
+/* FORM-ELEMENT : input, textarea, select
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.estim-portail .input{
+	width: 65%;
+	max-width: 65%;
+	float: left;
+	height: auto;
+    padding-top: 0px;
+}
+
+.estim-portail textarea{
+	height: 100px;
+	width: 95%;
+}
+
+.estim-portail .input input{
+	float: left;
+	width: 95%
+}
+
+/*
+input[disabled] {
+    cursor: default;
+    background-image: none;
+    background-color: #c0c0c0;
+    color: white;
+}
+*/
+
+/* LEGEND
+--------------------------------------------------------------------------------------------------------------------------------------*/
+legend {
+    color: #676767;
+    font-size: 1.2em;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+
+/* CHECK-BOX
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.new-checkbox {
+  display: inline-block;
+  vertical-align: middle;
+  width: 10px;
+  height: 10px;
+  margin-right: 3px;
+  background: url(../img/bg-radio.png) left top no-repeat;
+}
+.new-checkbox.check {
+  background-position: left -10px;
+}
+.new-checkbox input:focus {
+  left:0;
+}
+
+/* RADIO
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.new-radio {
+  background: url(../img/bg-radio-red.png) no-repeat scroll left top transparent;
+  cursor: pointer;
+  display: inline-block;
+  height: 12px;
+  vertical-align: middle;
+  width: 12px;
+  margin: -1px 10px 0 0;
+}
+.new-radio.check {
+  background-position: left -12px;
+}
+
+/* BUTTON
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.btnSauverOrgaJs {
+    display: none;
+}
+
+.js .btnSauverOrgaJs {
+    display: block;
+}
+
+.btnSauverOrgaJs, 
+.btnSauverOrgaNoJs {
+  /*  padding-left: 100px; */
+}
+
+.buttonGeolocMap {  
+    background: url(../img/btn-search.png) center center no-repeat !important;
+    width: 35px !important;
+    height: 33px;
+    margin-top: -11px;
+    border-radius: 4px;
+    border-color: #c8c8ca #9e9e9e #9e9e9e #c8c8ca;
+    margin-left: 5px;
+    height: 30px;
+}
+
+.action-button-form,
+.aui-buttonitem-icon-label {
+    text-transform: uppercase; 
+    color: #fff;
+    background: #242424;
+    padding: 3px 14px;
+    border: none;
+    font-size: 1.1em;
+    border-radius: 0;
+    text-shadow: none;
+}
+
+.classic, 
+.formvalidationboutonunique, 
+.aui-buttonitem-icon-label, 
+.categories button {
+    background: none repeat scroll 0 0 #242424 !important;
+    border: medium none !important;
+    border-radius: 0 !important;
+    color: #fff !important;
+    font-size: 1.1em !important;
+    padding: 3px 14px !important;
+    text-shadow: none !important;
+    text-transform: uppercase !important;
+}
+
+/* GEOLOC
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.mapGeoloc #map-canvas {
+    width: 100%;
+}
+
+#geolocButtonAndSelect {
+    padding-top: 10px;  
+}
+
+#geolocButtonAndSelect select{
+	float: left;
+}

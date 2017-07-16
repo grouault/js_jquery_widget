@@ -1,0 +1,19 @@
+/* 
+Styles génériques pour les carrousels d'évènements :
+- carrousel des évènements
+- carrousel des évènements à venir
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.carrousel.evenements {
+    margin-bottom: 60px;
+    position: relative;
+    background-color: #f8f6f3;
+    padding: 15px 55px 35px;
+}
+
+.carrousel.evenements .bx-prev {
+  background-position: left -28px;
+}
+
+.carrousel.evenements .bx-next {
+  background-position: -28px -28px;
+}

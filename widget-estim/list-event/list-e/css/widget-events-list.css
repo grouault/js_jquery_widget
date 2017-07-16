@@ -1,0 +1,322 @@
+/* WIDGET
+--------------------------------------------------------------------------------------------------------------------------------------*/
+/* COMMON TOOLS
+ *
+ * global import for common and widget
+ *
+ * --------------------------------------------------------------------------------------------------------------------------------------*/
+/* VARS
+--------------------------------------------------------------------------------------------------------------------------------------*/
+/* MIXINS
+--------------------------------------------------------------------------------------------------------------------------------------*/
+/* Maths
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.mobile-only {
+  display: none;
+}
+@media all and (max-width: 480px) {
+  .desktop-only {
+    display: none;
+  }
+  .mobile-only {
+    display: block;
+  }
+}
+.form-widget-events-list {
+  border-bottom: #c0c0c0 solid 1px;
+}
+
+.form-widget-events-list .top-events-list-submit-fieldset,
+.form-widget-events-list .top-events-list-input-fieldset {
+  margin: 20px 0 20px;
+  padding: 0;
+  display: block;
+  clear: both;
+}
+.form-widget-events-list .top-events-list-input-fieldset {
+  padding: 0 30px 0 0;
+}
+.form-widget-events-list .top-events-list-submit-fieldset {
+  text-align: center;
+  border-top: #c0c0c0 solid 1px;
+  margin-top: 20px;
+}
+.form-widget-events-list .top-events-list-input,
+.form-widget-events-list .top-events-list-submit {
+  height: 46px;
+  margin: 0;
+  vertical-align: middle;
+}
+.form-widget-events-list .top-events-list-input {
+  width: 100%;
+  height: 46px;
+  margin: 0 -28px 0 0;
+  padding: 0 14px;
+  border: #b7b7b7 solid 1px;
+  color: #242424;
+  font-size: 1.325em;
+}
+.form-widget-events-list .top-events-list-input::-webkit-input-placeholder,
+.form-widget-events-list .top-events-list-input:-moz-placeholder,
+.form-widget-events-list .top-events-list-input::-moz-placeholder,
+.form-widget-events-list .top-events-list-input:-ms-input-placeholder {
+  color: #b7b7b7;
+}
+.form-widget-events-list .top-events-list-submit {
+  height: 48px;
+  padding: 0 105px;
+  line-height: 48px;
+  border: 0;
+  background-color: #242424;
+  color: #ffffff;
+  font-size: 1.378em;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+.form-widget-events-list .top-events-list-submit:hover {
+  text-decoration: underline;
+}
+
+/*
+Form - search
+--------------------------------------------------------------------------------------------------------------------------------------*/
+section.search-form{
+	display: table;
+}
+
+.form-widget-events-list .fieldset-search-event {
+  margin: 0 9px;
+  padding: 0;
+  display: block;
+  text-align: center;
+  float: left;
+}
+.form-widget-events-list .input-search,
+.form-widget-events-list .content-submit-search-event,
+.form-widget-events-list label,
+.form-widget-events-list .datepicker,
+.form-widget-events-list .content-icon-datepicker {
+  height: 46px;
+  margin: 0;
+  vertical-align: middle;
+  border: #b7b7b7 solid 1px;
+  float: left;
+  color: #242424;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.325em;
+}
+.form-widget-events-list .input-search::-webkit-input-placeholder,
+.form-widget-events-list .content-submit-search-event::-webkit-input-placeholder,
+.form-widget-events-list label::-webkit-input-placeholder,
+.form-widget-events-list .datepicker::-webkit-input-placeholder,
+.form-widget-events-list .content-icon-datepicker::-webkit-input-placeholder,
+.form-widget-events-list .input-search:-moz-placeholder,
+.form-widget-events-list .content-submit-search-event:-moz-placeholder,
+.form-widget-events-list label:-moz-placeholder,
+.form-widget-events-list .datepicker:-moz-placeholder,
+.form-widget-events-list .content-icon-datepicker:-moz-placeholder,
+.form-widget-events-list .input-search::-moz-placeholder,
+.form-widget-events-list .content-submit-search-event::-moz-placeholder,
+.form-widget-events-list label::-moz-placeholder,
+.form-widget-events-list .datepicker::-moz-placeholder,
+.form-widget-events-list .content-icon-datepicker::-moz-placeholder,
+.form-widget-events-list .input-search:-ms-input-placeholder,
+.form-widget-events-list .content-submit-search-event:-ms-input-placeholder,
+.form-widget-events-list label:-ms-input-placeholder,
+.form-widget-events-list .datepicker:-ms-input-placeholder,
+.form-widget-events-list .content-icon-datepicker:-ms-input-placeholder {
+  color: #b7b7b7;
+}
+.form-widget-events-list .content-datepicker {
+  margin-top: 10px;
+  float: right;
+}
+.form-widget-events-list .content-datepicker .input-search {
+  width: 222px;
+  padding: 0 14px;
+  border-right: 0;
+}
+.form-widget-events-list .content-datepicker .content-submit-search-event {
+  width: 48px;
+  border-left: #b7b7b7 solid 1px;
+  position: relative;
+  background: transparent url(../img/picto-search.png) center center no-repeat;
+}
+.form-widget-events-list .content-datepicker .content-submit-search-event .submit-search-event {
+  width: 44px;
+  line-height: 44px;
+  margin-top: 1px;
+  padding: 0;
+  vertical-align: middle;
+  border: 0;
+  background-color: transparent;
+}
+.form-widget-events-list .content-datepicker .content-submit-search-event .submit-search-event:hover {
+  text-decoration: underline;
+}
+.form-widget-events-list .content-datepicker label {
+  line-height: 46px;
+  margin: 0 15px;
+  border: 0;
+  color: #000000;
+  font-weight: 400;
+}
+.form-widget-events-list .content-datepicker .date-wrapper {
+  float: left;
+  position: relative;
+}
+.form-widget-events-list .content-datepicker .date-wrapper .datepicker {
+  width: 117px;
+  padding: 0 14px;
+}
+.form-widget-events-list .content-datepicker .date-wrapper .content-icon-datepicker {
+  width: 42px;
+  border-left: 0;
+}
+.form-widget-events-list .content-datepicker .date-wrapper .ui-datepicker-trigger {
+  height: 20px;
+  position: absolute;
+  top: 13px;
+  right: 11px;
+}
+
+/*
+Pager
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.paginate-widget-events-list {
+  border-bottom: #c0c0c0 solid 1px;
+}
+.paginate-widget-events-list .number-results-widget-events-list {
+  margin: 10px;
+  color: #676767;
+  font-size: 1.1em;
+}
+.paginate-widget-events-list .paginate-list-widget-events-list {
+  width: 100%;
+  margin-bottom: 15px;
+  display: inline-block;
+}
+.paginate-widget-events-list .paginate-list-widget-events-list .paginate-sub-list-widget-events-list {
+  float: right;
+}
+.paginate-widget-events-list .paginate-list-widget-events-list .paginate-sub-list-widget-events-list li {
+  margin: 0 auto;
+  margin-left: 10px;
+  float: left;
+  text-align: center;
+}
+.paginate-widget-events-list .paginate-list-widget-events-list .paginate-sub-list-widget-events-list li a {
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  vertical-align: middle;
+  display: block;
+  font-weight: bold;
+  text-decoration: none;
+}
+.paginate-widget-events-list .paginate-list-widget-events-list .paginate-sub-list-widget-events-list li a.arrow-page {
+  background-color: #242424;
+  color: #ffffff;
+  font-size: 2.95em;
+}
+.paginate-widget-events-list .paginate-list-widget-events-list .paginate-sub-list-widget-events-list li a.number-page {
+  background-color: #e3e1df;
+  color: #242424;
+  font-size: 1.4em;
+}
+.articles-list-widget-events-list p {
+  font-size: 1.2em;
+}
+.articles-list-widget-events-list .article-widget-events-list {
+  border-bottom: #c0c0c0 solid 1px;
+}
+.articles-list-widget-events-list .article-widget-events-list .header-article-widget-events-list {
+  min-height: 72px;
+  margin: 25px 10px 12.5px;
+}
+.articles-list-widget-events-list .article-widget-events-list .header-article-widget-events-list .img-link-container {
+  margin-right: 17.5px;
+  float: left;
+}
+.articles-list-widget-events-list .article-widget-events-list .header-article-widget-events-list .img-link-container a.img-link {
+  width: 95px;
+  height: 72px;
+  margin-top: auto;
+  margin-bottom: auto;
+  display: inline-block;
+  line-height: 72px;
+  background-color: #969696;
+  text-align: center;
+}
+.articles-list-widget-events-list .article-widget-events-list .header-article-widget-events-list .img-link-container a.img-link img {
+  max-width: 95px;
+  max-height: 72px;
+  height: auto;
+  display: inline-block;
+  line-height: normal;
+  vertical-align: middle;
+}
+.articles-list-widget-events-list .article-widget-events-list .header-article-widget-events-list h2 {
+  margin-bottom: 12.5px;
+  display: block;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.articles-list-widget-events-list .article-widget-events-list .header-article-widget-events-list h2 a.title-link {
+  display: block;
+  color: #e30513;
+}
+.articles-list-widget-events-list .article-widget-events-list .header-article-widget-events-list h2 a.title-link:hover {
+  color: #e30513;
+}
+.articles-list-widget-events-list .article-widget-events-list .header-article-widget-events-list p {
+  color: #242424;
+  font-size: 1.1em;
+}
+.articles-list-widget-events-list .article-widget-events-list .header-article-widget-events-list p span {
+  display: inline-block;
+  font-weight: bold;
+}
+.articles-list-widget-events-list .article-widget-events-list .header-article-widget-events-list p .date {
+  display: inline-block;
+  margin-right: 20px;
+}
+.articles-list-widget-events-list .article-widget-events-list .category-list-widget-events-list,
+.articles-list-widget-events-list .article-widget-events-list .desc-widget-events-list,
+.articles-list-widget-events-list .article-widget-events-list .public-widget-events-list,
+.articles-list-widget-events-list .article-widget-events-list .author-widget-events-list {
+  margin: 0 10px;
+  color: #242424;
+}
+.articles-list-widget-events-list .article-widget-events-list .category-list-widget-events-list {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.articles-list-widget-events-list .article-widget-events-list .category-list-widget-events-list .category-link,
+.articles-list-widget-events-list .article-widget-events-list .category-list-widget-events-list span {
+  display: inline-block;
+  color: #242424;
+}
+.articles-list-widget-events-list .article-widget-events-list .desc-widget-events-list {
+  margin-bottom: 15px;
+}
+.articles-list-widget-events-list .article-widget-events-list .public-widget-events-list {
+  margin-bottom: 7.5px;
+  font-weight: bold;
+}
+.articles-list-widget-events-list .article-widget-events-list .author-widget-events-list {
+  margin-bottom: 15px;
+}
+.articles-list-widget-events-list .article-widget-events-list .author-widget-events-list a {
+  color: #242424;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+/**** < IE 8  ****/
+html.lt-ie9 .form-widget-events-list .fieldset-search-event {
+  width: 50%;
+}

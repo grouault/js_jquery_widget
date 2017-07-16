@@ -1,0 +1,35 @@
+				<!-- 01. Search form -->
+				<form id="form-events-list" action="resultats.html" class="clearfix mobile form-widget-events-list">
+					<fieldset class="top-events-list-input-fieldset">
+						<div class="form-row">
+							<label class="label-search" for="lbl-search-txt">
+								label Search
+							</label>
+							<input id="lbl-search-txt" name="search" 
+								type="search" 
+								class="input-search wdg_reset_focus"  
+								value="" 
+								placeholder="Ma recherche" />
+						</div>
+						<div class="form-row">
+							<label class="label-search" for="lbl-search-date-debut">
+							Date d&eacute;but :
+							</label>
+							<input class="input-search datepicker" id="lbl-search-date-debut" type="text" name="date-debut" />
+						</div>            
+						<div class="form-row">
+							<label class="label-search" for="lbl-search-date-fin">
+								Date fin :
+							</label>
+							<input class="input-search datepicker" id="lbl-search-date-fin" type="text" name="date-fin" />
+						</div>
+						<!-- boutton de validation. -->
+						<div class="form-row">
+							<button class="search-button">OK</button>
+							<!-- button class="init-button"><liferay-ui:message key="list.event.button-search.init" /></button -->
+						</div> 
+					</fieldset>
+					<fieldset class="top-events-list-submit-fieldset">
+						<input type="submit" value="Rechercher" class="top-events-list-submit">
+					</fieldset>
+				</form>

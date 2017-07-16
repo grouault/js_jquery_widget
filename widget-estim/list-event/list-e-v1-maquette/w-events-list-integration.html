@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fr-FR"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="fr-FR"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="fr-FR"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="fr-FR"> <!--<![endif]-->
+<html lang="fr">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="description" />
+        <meta name="keywords" content="tags" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+        <link rel="stylesheet" media="all" type="text/css" href="css/normalize.css">
+        <link rel="stylesheet" media="screen" type="text/css" href="css/jquery.fancybox.css" />
+        <link rel="stylesheet" media="all" type="text/css" href="css/widget-common.css">
+		<link rel="stylesheet" media="all" type="text/css" href="css/widget-events-list.css" />
+        <link rel="stylesheet" media="all" type="text/css" href="css/widget-fancybox-content-tabs.css" />
+        <!--[if lt IE 9]>
+                <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+                <link rel="stylesheet" media="all" type="text/css" href="css/ie.css" />
+        <![endif]-->
+        <!--[if lt IE 8]>
+                <link rel="stylesheet" media="all" type="text/css" href="css/ie7.css" />
+        <![endif]-->
+        <!--[if lt IE 10]>
+                <script src="js/matchMedia.js"></script>
+        <![endif]-->
+        <title>List Event Integration</title>
+	</head>
+	<body>
+		<div id="widget-wrapper">
+			<div class="events-list-widget">
+				<!-- 01. Search form -->
+				<form id="form-events-list" action="resultats.html" class="clearfix mobile form-widget-events-list">
+					<fieldset class="top-events-list-input-fieldset">
+						<div class="form-row">
+							<label class="label-search" for="lbl-search-txt">
+								label Search
+							</label>
+							<input id="lbl-search-txt" name="search" 
+								type="search" 
+								class="input-search wdg_reset_focus"  
+								value="" 
+								placeholder="Ma recherche" />
+						</div>
+						<div class="form-row">
+							<label class="label-search" for="lbl-search-date-debut">
+							Date d&eacute;but :
+							</label>
+							<input class="input-search datepicker" id="lbl-search-date-debut" type="text" name="date-debut" />
+						</div>            
+						<div class="form-row">
+							<label class="label-search" for="lbl-search-date-fin">
+								Date fin :
+							</label>
+							<input class="input-search datepicker" id="lbl-search-date-fin" type="text" name="date-fin" />
+						</div>
+						<!-- boutton de validation. -->
+						<div class="form-row">
+							<button class="search-button">OK</button>
+							<!-- button class="init-button"><liferay-ui:message key="list.event.button-search.init" /></button -->
+						</div> 
+					</fieldset>
+					<fieldset class="top-events-list-submit-fieldset">
+						<input type="submit" value="Rechercher" class="top-events-list-submit">
+					</fieldset>
+				</form>
+				<!-- 02. Paginate -->
+
+				<!-- 03. Articles List -->
+				<ul class="articles-list-widget-events-list" itemscope="" itemtype="http://schema.org/WebPage">
+					<li>
+					<article class="article-widget-events-list">
+						<header class="header-article-widget-events-list">
+							<div class="img-link-container">
+								<a href="#tabs-menu-container-1" class="img-link">
+									<img src="img/img-search.jpg" alt="#" itemprop="image">
+								</a>
+							</div>
+							<h2 itemprop="about"><a href="#tabs-menu-container-1" class="title-link">Les journées techniques de l'air en Corse</a></h2>
+							<p>
+								<span>Date de début : </span>
+								<time datetime="2014-09-18" class="date">18/09/2014</time>
+								<span>Date de fin : </span>
+								<time datetime="2014-09-19" class="date">19/09/2014</time>
+							</p>
+						</header>
+						<p class="category-list-widget-events-list">
+							<a href="#" class="category-link">Innovation</a>
+							<span> - </span>
+							<a href="#" class="category-link">recherche</a>
+							<span> - </span>
+							<a href="#" class="category-link">physique</a>
+							<span> - </span>
+							<a href="#" class="category-link">chimie</a>
+						</p>
+						<p class="desc-widget-events-list" itemprop="description">Jeudi 9 octobre, de 18h30 à 22h, à l'occasion d'une soirée spéciale Fête de la Science, les étudiants de l'association EPICS présenteront les inventions issues de l'ESPCI ParisTech.</p>
+						<p class="public-widget-events-list">Tout public</p>
+						<p class="author-widget-events-list">
+							<span>Par : </span>
+							<a href="#" itemprop="author">ESPACE DES SCIENCES PIERRE-GILLES DE GENNES</a>
+						</p>
+					</article>
+					</li>
+					<li>
+					<article class="article-widget-events-list">
+						<header class="header-article-widget-events-list">
+							<div class="img-link-container">
+								<a href="#tabs-menu-container-1" class="img-link">
+									<img src="img/demo/expo_math_en_jeux_home2.jpg" alt="#" itemprop="image">
+								</a>
+							</div>
+							<h2 itemprop="about"><a href="#tabs-menu-container-1" class="title-link">Les journées techniques de l'air en Corse</a></h2>
+							<p>
+								<span>Date de début : </span>
+								<time datetime="2014-09-18" class="date">18/09/2014</time>
+								<span>Date de fin : </span>
+								<time datetime="2014-09-19" class="date">19/09/2014</time>
+							</p>
+						</header>
+						<p class="category-list-widget-events-list">
+							<a href="#" class="category-link">Innovation</a>
+							<span> - </span>
+							<a href="#" class="category-link">recherche</a>
+							<span> - </span>
+							<a href="#" class="category-link">physique</a>
+							<span> - </span>
+							<a href="#" class="category-link">chimie</a>
+						</p>
+						<p class="desc-widget-events-list" itemprop="description">Jeudi 9 octobre, de 18h30 à 22h, à l'occasion d'une soirée spéciale Fête de la Science, les étudiants de l'association EPICS présenteront les inventions issues de l'ESPCI ParisTech.</p>
+						<p class="public-widget-events-list">Tout public</p>
+						<p class="author-widget-events-list">
+							<span>Par : </span>
+							<a href="#" itemprop="author">ESPACE DES SCIENCES PIERRE-GILLES DE GENNES</a>
+						</p>
+					</article>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<!-- Fancybox -->
+        <div class="tabs-menu-container" id="tabs-menu-container-1">
+    <nav class="nav-menu-content">
+            <ul>
+                    <li><a href="#" class="tabs-menu-link-container active one-line" data-id="0">description</a></li>
+                    <li><a href="#" class="tabs-menu-link-container two-line" data-id="1">données techniques</a></li>
+                    <li><a href="#" class="tabs-menu-link-container two-line" data-id="2">Droits d'utilisation</a></li>
+            </ul>
+    </nav>
+    </div>
+		<script src="js/jquery-1.9.1.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+        <script src="js/widget-popup.js"></script>
+	</body>
+</html>

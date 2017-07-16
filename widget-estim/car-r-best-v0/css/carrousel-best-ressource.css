@@ -1,0 +1,149 @@
+/* 
+Styles pour le CARROUSEL BEST RESSOURCE
+--------------------------------------------------------------------------------------------------------------------------------------*/
+@import url(carrousel-ressources.css);
+
+.carrousel-ressource-best{
+  padding-top: 20px;
+  border-top: 1px solid #ddd;
+}
+
+.carrousel-ressource-best .top {
+  margin-top: 25px;
+  border: 1px solid #c0c0c0;
+}
+
+.carrousel-ressource-best .top:first-child {
+  margin-top: 0;
+}
+
+.carrousel-ressource-best .top .header {
+  padding: 8px 8px 8px 22px;
+  background-color: #242424;
+  border-bottom: 1px solid #ddd;
+}
+
+.carrousel-ressource-best .top .header h2 {
+  color: #fff;
+  font-size: 1.8em;
+  font-weight: 700;
+  margin: 0;
+  float: left;
+  text-transform: uppercase;
+}
+
+.carrousel-ressource-best .top .header .select {
+  float: right;
+  position: relative;
+  z-index: 10;
+}
+
+.carrousel-ressource-best .top .header .select select {
+  width: 250px;
+}
+
+/* MOBILE
+--------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 480px),
+    screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) {
+    
+	.carrousel-ressource-best .top {
+	  border: 0;
+	  margin: 0;
+	  border-bottom: 1px solid #c0c0c0;
+	}
+	
+	.carrousel-ressource-best .top .header {
+	  padding: 0;
+	  border: 0;
+	  background: none;
+	}
+	
+	.carrousel-ressource-best .top .header h2 {
+	  float: none;
+	  margin: 0;
+	  padding: 10px;
+	  text-align: center;
+	  font-size: 1.8em;
+	  background-color: #242424;
+	}
+	
+	.carrousel-ressource-best .top .header .select {
+	  float: none;
+	  padding: 10px 15px;
+	  text-align: center;
+	}
+	
+	.carrousel-ressource-best .top .header .select select {
+	  width: 280px;
+	}
+	
+	.carrousel-ressource-best .top .bx-wrapper {
+	  margin: 0 auto;
+	}
+	
+	.carrousel-ressource-best .top .content .scroll {
+	  padding-bottom: 0;
+	}
+	
+	.carrousel-ressource-best .top .content .slider {
+	  width:100% !important;
+	}
+	
+	.carrousel-ressource-best .top .content .slider li {
+	  margin: 10px auto;
+	  border: 0;
+	  padding: 0;
+	  float:none;
+	  width:100% !important;
+	}
+	
+	.carrousel-ressource-best .top .content .slider li:first-child {
+	  margin:10px auto;
+	}
+	
+	.carrousel-ressource-best .top .content .slider li .box {
+	  height:auto !important;
+	}
+	
+	.carrousel-ressource-best .top .content .slider li .box:after {
+	  visibility:hidden;
+	  display:block;
+	  font-size:0;
+	  content:" ";
+	  clear:both;
+	  height:0;
+	}
+	
+	.carrousel-ressource-best .top .content .slider li .thumb {
+	  width:28%;
+	  float:left;
+	  margin:0 2% 0 0;
+	}
+	
+	.carrousel-ressource-best .top .content .slider li .thumb img{
+	  width:100%;
+	  height:auto;
+	}
+	
+	.carrousel-ressource-best .slider-home ul{
+	margin: auto;
+	}
+	
+}
+
+/* TABLET
+--------------------------------------------------------------------------------------------------------------------------------------*/
+/* @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) */
+@media screen and (min-width: 480px) and (max-width: 768px) {
+
+	.carrousel-ressource-best .top {
+        margin: 25px 20px 0;
+	}
+	
+	.carrousel-ressource-best .top:first-child {
+	   margin-top: 0;
+	}
+	
+}
+	

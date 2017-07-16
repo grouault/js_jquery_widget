@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fr-FR"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="fr-FR"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="fr-FR"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="fr-FR"> <!--<![endif]-->
+<html lang="fr">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="description" content="description" />
+		<meta name="keywords" content="tags" />
+		<!--[if IE]>
+			<meta http-equiv="x-ua-compatible" content="IE=9" />
+		<![endif]-->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+		<link rel="stylesheet" media="all" type="text/css" href="css/normalize.css">
+		<link rel="stylesheet" media="all" type="text/css" href="css/jquery-ui-1.10.4.custom.min.css">
+		<link rel="stylesheet" media="all" type="text/css" href="css/jquery.fancybox.css">
+		<link rel="stylesheet" media="all" type="text/css" href="css/widget-fancybox-content-tabs.css" />
+		<link rel="stylesheet" media="all" type="text/css" href="css/widget-common.css">
+		<link rel="stylesheet" media="all" type="text/css" href="css/widget-map.css">
+		<link rel="stylesheet" media="all" type="text/css" href="css/widget-events-map.css">
+	    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+	    <script src="http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/src/markerclusterer.js"></script>
+	    <!--[if lt IE 10]>
+            <script src="js/matchMedia.js"></script>
+        <![endif]-->
+		<title>CSI Estim</title>
+	</head>
+	<body>
+		<div id="widget-wrapper">
+			<div class="structures-map-widget">
+				<!-- 01. Search form -->
+				<form id="form-structures-map" action="resultats.html" class="clearfix mobile form-widget-structures-map">
+					<fieldset class="fieldset-structures-map search">
+						<div class="content-datepicker">
+							<input type="text" name="input-structures-map" id="input-structures-map" class="input-structures-map" placeholder="Rechercher un événement">
+							<div class="content-submit-structures-map">
+								<input type="submit" value="" class="submit-structures-map">
+							</div>
+						</div>
+					</fieldset>
+					<fieldset class="fieldset-structures-map">
+						<div class="content-datepicker">
+							<label for="date-from">Du</label>
+							<div class="date-wrapper">
+								<input type="text" placeholder="29/10/2014" id="date-from" class="datepicker datepicker-from">
+								<span class="content-icon-datepicker"></span>
+							</div>
+						</div>
+					</fieldset>
+					<fieldset class="fieldset-structures-map">
+						<div class="content-datepicker">
+							<label for="date-from">Au</label>
+							<div class="date-wrapper">
+								<input type="text" placeholder="29/10/2014" id="date-to" class="datepicker datepicker-to">
+								<span class="content-icon-datepicker"></span>
+							</div>
+						</div>
+					</fieldset>
+				</form>
+				<!-- 02. MAP -->
+				<div id="map-canvas"></div>
+			</div>
+		</div>
+		<!-- Fancybox -->
+        <div class="tabs-menu-container" id="tabs-menu-container-1">
+    <nav class="nav-menu-content">
+            <ul>
+                    <li><a href="#" class="tabs-menu-link-container active one-line" data-id="0">description</a></li>
+                    <li><a href="#" class="tabs-menu-link-container two-line" data-id="1">données techniques</a></li>
+                    <li><a href="#" class="tabs-menu-link-container two-line" data-id="2">Droits d'utilisation</a></li>
+            </ul>
+    </nav>
+    </div>		<!-- Footer scripts -->
+		<script>
+			var jsonDataURL = 'json/data-map.json';
+		</script>
+		<script src="js/jquery-1.9.1.min.js?1.9.1"></script>
+		<script src="js/jquery-ui-1.10.4.min.js"></script>
+		<script src="js/datepicker-fr.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+		<script src="js/widget-popup.js"></script>
+		<script src="js/map.js"></script>
+	</body>
+</html>

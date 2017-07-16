@@ -1,0 +1,26 @@
+/* 
+Styles relatifs au BX-SLIDER s'appliquant au carrousel
+- en surcharge des classes du bx-sliders
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.carrousel .bx-wrapper {
+  position: relative;
+}
+
+.carrousel .bx-wrapper .bx-prev,
+.carrousel .bx-wrapper .bx-next {
+  display: block;
+  width: 0;
+  height: 0;
+  top: 120px;
+  left: -40px;
+  position: absolute;
+  overflow: hidden;
+  padding: 28px 0 0 28px;
+  background: url(../img/nav-slider.png) left top no-repeat;
+}
+
+.carrousel .bx-wrapper .bx-next {
+  left: auto;
+  right: -40px;
+  background-position: -28px top;
+}

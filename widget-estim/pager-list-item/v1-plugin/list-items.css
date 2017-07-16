@@ -1,0 +1,14 @@
+.element{
+display: bloc;
+border: solid 1px gray; 
+}
+
+.page-number, .page-next, .page-previous{
+border: solid 1px gray;
+margin-left: 5px;
+}
+
+.active {
+color: blue;
+background-color: yellow;
+}

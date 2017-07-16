@@ -1,0 +1,57 @@
+/* 
+Styles génériques.
+----------------------------------------------------------------------------------------------------------------------*/
+ul,
+p,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+a {
+  color: #242424;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+.hidden {
+  position:absolute;
+  left:-9999em; /* move the text outside rather than hidding it */
+}
+
+.hidden:hover, .hidden:focus {
+  position:static;
+}
+
+body {
+  color: #242424;
+  font-size: 62.5%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+fieldset {
+    border:none;
+    display:block;
+}
+
+a.hidden {
+  position:absolute;
+  left:-9999em; /* move the text outside rather than hidding it */
+}
+a.hidden:hover, a.hidden:focus {
+  position:static;
+}

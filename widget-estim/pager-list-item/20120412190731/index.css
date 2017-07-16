@@ -1,0 +1,256 @@
+/* ::::: http://webprep.dmzprive.cite-sciences.fr/mediacs/css/widget.css ::::: */
+
+/* ::::: http://webprep.dmzprive.cite-sciences.fr/mediacs/css/jquery-pretty-photo.css ::::: */
+
+/* ::::: http://webprep.dmzprive.cite-sciences.fr/cms/Satellite?blobcol=urldata&blobheadername1=content-type&blobheadervalue1=text%2Fcss&blobkey=id&blobtable=MungoBlobs&blobwhere=1248126584069&ssbinary=true ::::: */
+
+* { margin: 0pt; padding: 0pt; }
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, center { border: 0pt none; font-family: Arial,Helvetica,sans-serif; font-size: 11px; font-style: inherit; font-weight: inherit; line-height: normal; margin: 0pt; outline: 0pt none; padding: 0pt; vertical-align: baseline; }
+:focus { outline: 0pt none; }
+body { background: none repeat scroll 0pt 0pt white; color: black; line-height: 11px; }
+ol, ul { list-style: none outside none; }
+table { border-collapse: collapse; border-spacing: 0pt; }
+caption, th, td { color: black; font-weight: normal; line-height: 11px; text-align: left; }
+h1, h2, h3, h4, h5, h6, strong, th { font-weight: 900; }
+body { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px; width: 100%; }
+img, div, a {  }
+#global { margin: 0pt auto; width: 972px; }
+#header { height: 100%; }
+#content { min-height: 0pt; background: url('contenucentralfond.png') repeat scroll 0pt 0pt transparent; }
+.contenu {  }
+#breadcrumb { height: 20px; overflow: hidden; }
+#breadcrumb .breadlink { color: rgb(255, 255, 255); float: left; font-size: 10px; overflow: hidden; }
+#breadcrumb .breadlink a { color: rgb(255, 255, 255); font-size: 10px; font-weight: normal; margin: 0pt 2px; }
+#breadcrumb .zoomTexte { float: right; height: 14px; width: 20px; }
+#content .sidebarLeft { float: left; margin-right: 2px; width: 205px; }
+#content .sidebarLeft .racineMenuLateral { background: url('racinemenulateral.png') no-repeat scroll 0pt 0pt transparent; color: rgb(255, 255, 255); font-family: Trebuchet MS; font-size: 18px; height: 29px; line-height: 28px; padding-left: 18px; text-align: center; }
+#content .sidebarLeft .menulateral { margin-bottom: 4px; overflow: hidden; }
+#content .sidebarLeft .menulateral .contenu { background: url('menugauchefond.png') repeat-x scroll 50% 0pt rgb(142, 151, 157); border: 1px solid rgb(255, 255, 255); float: left; height: 100%; margin-left: 3px; overflow: hidden; position: static; width: 197px; }
+#content .sidebarLeft .menulateral a { background: url('flechenavgi.png') no-repeat scroll 0pt 50% transparent; color: rgb(255, 255, 255); font-weight: bold; line-height: 28px; margin-left: 5px; padding-left: 18px; text-decoration: none; }
+#content .sidebarLeft .menulateral li:hover { background: url('separatornavgi.png') no-repeat scroll 50% 100% rgb(33, 168, 197); cursor: pointer; }
+#content .sidebarLeft .menulateral a:hover { text-decoration: underline; }
+#content .sidebarLeft .menulateral div {  }
+#content .sidebarLeft .menulateral ul { height: 100%; margin-bottom: -2px; }
+#content .sidebarLeft .menulateral li { background: url('separatornavgi.png') no-repeat scroll 50% 100% transparent; height: auto; }
+#content .sidebarLeft .menulateral li.active { background: url('separatornavgi.png') no-repeat scroll 50% 100% rgb(33, 168, 197); height: auto; }
+#content .sidebarLeft .menulateral li.active a { background: url('flechenavga.png') no-repeat scroll 0pt 50% transparent; }
+#content .contenucentral { float: left; height: 100%; width: 558px; }
+#content .contenucentral p { color: rgb(51, 51, 51); }
+#content .elementContenu { margin-left: 2px; width: 556px; }
+#content .elementContenu .contenu { background: none repeat scroll 0pt 0pt rgb(255, 255, 255); float: left; margin-left: 3px; padding: 20px; width: 508px; }
+.sidebarRight { float: left; margin-left: 2px; width: 205px; }
+.sidebarRight .image, .sidebarRight .imgFooter { margin-bottom: 4px; }
+.sidebarRight .bordureDroite > .contenu > * { margin-left: 3px; }
+.lienSTF a { color: rgb(114, 97, 72); }
+#menuderoulant_specifique { background: url('menuprincipalfondtrans.png') no-repeat scroll 0pt 0pt transparent; height: 29px; text-align: left; width: 972px; z-index: 1000; }
+#menuderoulant_specifique #searchbox { float: right; padding-right: 5px; }
+#menuderoulant_specifique ul { float: left; line-height: 28px; }
+#menuderoulant_specifique #searchbox input { background: url('input.png') no-repeat scroll 0pt 0pt transparent; border: medium none; float: left; font-size: 12px; height: 20px; margin-top: 4px; padding-left: 2px; padding-top: 2px; width: 120px; }
+#menuderoulant_specifique #searchbox input.submit { background: url('loupe_recherche.png') no-repeat scroll 0pt 0pt transparent; cursor: pointer; height: 20px; margin: 4px 0pt 0pt; width: 20px; }
+#header .libelleRecherche { display: none; }
+#menuderoulant_specifique li { float: left; height: 100%; }
+#menuderoulant_specifique li a { color: rgb(255, 255, 255); display: block; font-weight: bold; line-height: 28px; margin-left: 10px; margin-right: 10px; padding: 0pt 3px; text-decoration: none; }
+#menuderoulant_specifique ul.niveau1 { position: relative; z-index: 1000; }
+#menuderoulant_specifique ul.niveau1 li { position: relative; }
+#menuderoulant_specifique ul.niveau1 li.home { background: url('scientifica.png') repeat scroll 0pt 0pt transparent; width: 120px; }
+#menuderoulant_specifique ul.niveau1 li.home:hover { background: url('scientifica_hover.png') no-repeat scroll 0pt 0pt transparent; }
+#menuderoulant_specifique ul.niveau1 li.home a { color: rgb(33, 167, 196); font-family: trebuchet MS; font-size: 12px; padding-left: 12px; }
+#menuderoulant_specifique ul.niveau1 li.c2 { background: url('menu_separation.png') no-repeat scroll 100% 0pt rgb(255, 255, 255); }
+#menuderoulant_specifique ul.niveau1 li.c2:hover { background: url('cite_hover.png') no-repeat scroll 100% 0pt transparent; }
+#menuderoulant_specifique ul.niveau1 li.c2 a { color: rgb(193, 0, 21); font-family: trebuchet MS; font-size: 12px; }
+#menuderoulant_specifique ul.niveau1 li.c3 { background: none repeat scroll 0pt 0pt rgb(255, 255, 255); border-right: 1px solid rgb(155, 151, 143); }
+#menuderoulant_specifique ul.niveau1 li.c3:hover { background: url('palais_hover.jpg') repeat-x scroll 100% 0pt transparent; }
+#menuderoulant_specifique ul.niveau1 li.c3 a { color: rgb(193, 0, 21); font-family: trebuchet MS; font-size: 12px; }
+#menuderoulant_specifique ul.niveau1 li.c4 { background: url('menu_separation.png') no-repeat scroll 100% 0pt transparent; border-left: 1px solid rgb(255, 255, 255); }
+#menuderoulant_specifique ul.niveau1 li.c4:hover { background: url('menu_hover.png') no-repeat scroll 100% 0pt transparent; }
+#menuderoulant_specifique ul.niveau1 li.c4 a { color: rgb(255, 255, 255); font-family: trebuchet MS; font-size: 12px; }
+#menuderoulant_specifique ul.niveau1 li.c5 { background: url('menu_separation.png') no-repeat scroll 100% 0pt transparent; }
+#menuderoulant_specifique ul.niveau1 li.c5:hover { background: url('menu_hover.png') no-repeat scroll 100% 0pt transparent; }
+#menuderoulant_specifique ul.niveau1 li.c5 a { color: rgb(255, 255, 255); font-family: trebuchet MS; font-size: 12px; }
+#menuderoulant_specifique ul.niveau1 li.c6 { background: url('menu_separation.png') no-repeat scroll 100% 0pt transparent; }
+#menuderoulant_specifique ul.niveau1 li.c6:hover { background: url('menu_hover.png') no-repeat scroll 100% 0pt transparent; }
+#menuderoulant_specifique ul.niveau1 li.c6 a { color: rgb(255, 255, 255); font-family: trebuchet MS; font-size: 12px; }
+#menuderoulant_specifique ul.niveau1 li.c7 {  }
+#menuderoulant_specifique ul.niveau1 li.c7:hover { background: url('menu_hover_sans_sepa.png') repeat-x scroll 0pt 0pt transparent; }
+#menuderoulant_specifique ul.niveau2 { border: 1px solid rgb(255, 255, 255); margin-bottom: -1px; width: 174px; }
+#menuderoulant_specifique .menuderoulant { background-color: rgb(255, 255, 255); display: none; float: none; left: 0pt; overflow: hidden; position: absolute; top: 28px; width: 173px; z-index: 1000; }
+#menuderoulant_specifique ul.niveau2 li a { display: block; line-height: 28px; margin: 0pt; padding-left: 10px; padding-right: 10px; }
+#menuderoulant_specifique ul.niveau1 li:hover a { color: rgb(255, 255, 255); }
+#menuderoulant_specifique ul.niveau1 li.c2:hover .menuderoulant { border: 1px solid rgb(193, 0, 21); }
+#menuderoulant_specifique ul.niveau1 li:hover .menuderoulant { border: 1px solid rgb(30, 162, 193); }
+#menuderoulant_specifique ul.niveau1 li:hover ul.niveau2 li:hover { background: none repeat scroll 0pt 0pt rgb(30, 162, 193); }
+#menuderoulant_specifique ul.niveau1 li.c2:hover ul.niveau2 li:hover { background: none repeat scroll 0pt 0pt rgb(193, 0, 21); }
+#menuderoulant_specifique ul.niveau1 li:hover .menuderoulant { display: block; }
+#menuderoulant_specifique ul.niveau2 li { border-bottom: 1px solid rgb(204, 204, 204); float: none; }
+#menuderoulant_specifique ul.niveau1 li.c2:hover ul.niveau2 li.d1 { background: url('cite.png') no-repeat scroll 60px 45% transparent; }
+#menuderoulant_specifique ul.niveau1 li.c2:hover ul.niveau2 li.d1 a { color: rgb(193, 0, 21); }
+#menuderoulant_specifique ul.niveau1 li.c2:hover ul.niveau2 li.d1:hover { background: url('citehover.png') no-repeat scroll 60px 45% rgb(193, 0, 21); }
+#menuderoulant_specifique ul.niveau1 li.c2:hover ul.niveau2 li.d1 a:hover { color: rgb(255, 255, 255); }
+#menuderoulant_specifique ul.niveau1 li:hover ul.niveau2 li:hover a { color: rgb(255, 255, 255); }
+#menuderoulant_specifique ul.niveau1 li:hover ul.niveau2 li a { color: rgb(51, 51, 51); }
+#langIdent { float: right; margin-top: 3px; width: 250px; }
+#langIdent .ident { background: url('ident.png') no-repeat scroll 0pt 0pt transparent; cursor: pointer; float: right; height: 16px; width: 97px; }
+#footer { background: url('footerfond.png') repeat scroll 0pt 0pt transparent; border-color: rgb(255, 255, 255) rgb(255, 255, 255) rgb(186, 205, 231); border-style: solid; border-width: 1px; clear: both; height: 149px; margin-top: 4px; padding: 20px 0pt; width: 970px; }
+#footer .imgFooter { float: left; }
+#footer .separator { background-color: rgb(255, 255, 255); float: left; height: 100%; width: 1px; }
+#footer .linkList { float: left; height: 100%; padding: 0pt 10px 0pt 30px; width: 160px; }
+#footer .linkList a { color: rgb(51, 51, 51); display: block; line-height: 14pt; text-decoration: none; }
+#footer .linkList a.title { font-family: Trebuchet MS; font-weight: bold; }
+#footer .linkList a.title_SCI { color: rgb(33, 167, 196); }
+#footer .linkList a:hover { text-decoration: underline; }
+#footer .linkList .recherche { color: rgb(51, 51, 51); font-family: Trebuchet MS; font-weight: bold; margin: 10px 0pt 5px; }
+#footer .linkList .recherche .query { background: url('input.png') no-repeat scroll 0pt 0pt transparent; border: medium none; float: left; font-size: 11px; font-weight: normal; height: 20px; padding-left: 9px; padding-top: 3px; width: 110px; }
+#footer .linkList .recherche .submit { background: url('loupe_recherche.png') no-repeat scroll 0pt 0pt transparent; border: medium none; cursor: pointer; float: left; height: 20px; width: 20px; }
+#global .liensBasDePage { color: rgb(255, 255, 255); height: 30px; margin-top: 6px; }
+#global .liensBasDePage span { font-size: 10px; }
+#global .liensBasDePage .facebook { background: url('facebook.png') no-repeat scroll 0pt 0pt transparent; color: rgb(255, 255, 255); font-family: trebuchet MS; font-size: 10px; margin-left: 4px; padding: 0pt 0pt 10px 18px; text-decoration: none; }
+#global .liensBasDePage .dailymotion { background: url('dailymotion.png') no-repeat scroll 0pt 0pt transparent; color: rgb(255, 255, 255); font-family: trebuchet MS; font-size: 10px; margin-left: 24px; padding: 0pt 0pt 10px 18px; text-decoration: none; }
+#global .liensBasDePage .twitter { background: url('twitter.png') no-repeat scroll 0pt 0pt transparent; color: rgb(255, 255, 255); font-family: trebuchet MS; font-size: 10px; margin-left: 24px; padding: 0pt 0pt 10px 18px; text-decoration: none; }
+#global .liensBasDePage .rss { background: url('rss.png') no-repeat scroll 0pt 0pt transparent; color: rgb(255, 255, 255); font-family: trebuchet MS; font-size: 10px; margin-left: 24px; padding: 0pt 0pt 10px 18px; text-decoration: none; }
+#global .liensBasDePage .copyright { color: rgb(255, 255, 255); float: right; font-family: trebuchet MS; font-size: 10px; text-decoration: none; }
+#content .contenucentral .titrepage .bordureHaut, #content .contenucentral .elementContenu .bordureHaut, #content .contenucentral .diapo .bordureHaut { background: url('bordurehaut.png') no-repeat scroll 0pt 0pt transparent; height: 3px; width: 554px; }
+.sidebarLeft .contenu, .sidebarRight .contenu { margin-left: 3px; }
+.sidebarRight .contenu { margin-left: 0pt; }
+.sidebarLeft .bordureHaut, .sidebarRight .bordureHaut { background: url('bordurehautlateral.png') no-repeat scroll 0pt 0pt transparent; float: left; height: 3px; width: 205px; }
+.sidebarLeft .bordureGauche, .sidebarRight .bordureGauche { background: url('borduregauche.png') repeat-y scroll 0pt 0pt transparent; float: left; height: 100%; width: 3px; }
+.sidebarLeft .bordureDroite, .sidebarRight .bordureDroite { background: url('borduredroite.png') repeat-y scroll 100% 0pt transparent; float: left; height: 100%; width: 205px; }
+.sidebarLeft .bordureBas, .sidebarRight .bordureBas { background: url('bordurebaslateral.png') no-repeat scroll 0pt 0pt transparent; float: left; height: 3px; margin-bottom: 4px; width: 205px; }
+#content .contenucentral .titrepage .bordureGauche, #content .contenucentral .elementContenu .bordureGauche, #content .contenucentral .diapo .bordureGauche, .biblioAccueilx3 .bordureGauche, .blocx2 .bordureGauche, .biblioAccueilx2 .bordureGauche { background: url('borduregauche.png') repeat-y scroll 0pt 0pt transparent; float: left; height: 100%; width: 3px; }
+#content .contenucentral .titrepage .bordureDroite, #content .contenucentral .elementContenu .bordureDroite, #content .contenucentral .diapo .bordureDroite { background: url('borduredroite.png') repeat-y scroll 100% 0pt transparent; float: left; height: 100%; width: 554px; }
+#content .contenucentral .titrepage .bordureBas, #content .contenucentral .elementContenu .bordureBas, #content .contenucentral .diapo .bordureBas { background: url('bordurebas.png') no-repeat scroll 0pt 0pt transparent; float: left; height: 3px; margin-bottom: 4px; width: 554px; }
+#easyaccess { position: absolute; height: 0px; text-indent: -5000px; overflow: hidden; }
+:focus { outline: medium none; }
+.retrouveznous .mainRetrouveznous { position: absolute; width: 205px; z-index: 10000; }
+.retrouveznous .mainRetrouveznous .contenu .titreContenuRetrouveznous { background: url('retrouvez_nous_titre.png') no-repeat scroll 0pt 50% transparent; color: white; font-family: Trebuchet MS; font-size: 13px; font-weight: bold; height: 22px; line-height: 22px; padding-left: 5px; }
+.retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous { background-color: white; height: 90px; padding-left: 15px; padding-top: 5px; width: 184px; }
+.retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous { float: left; height: 13px; padding-bottom: 2px; padding-top: 2px; width: 75px; }
+#content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauFb, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseau, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauEmail, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauTwit, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauFavoris, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauDigg, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauLinkedIn, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauMyspace, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauDelicious, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauGoogle, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauTechno, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauDailyMotion, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauLive { display: block; font-family: Trebuchet MS; font-size: 11px; font-weight: normal; height: 13px; line-height: 11px; padding-left: 20px; text-align: left; text-decoration: none; width: 65px; }
+#content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauFb:hover, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseau:hover, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauEmail:hover, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauTwit:hover, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauFavoris:hover, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauDigg:hover, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauLinkedIn:hover, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauMyspace:hover, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauDelicious:hover, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauGoogle:hover, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauTechno:hover, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauDailyMotion:hover, #content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauLive:hover { color: black; cursor: pointer; text-decoration: underline; }
+#content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauFb { background: url('icn_fbook.png') no-repeat scroll 0pt 50% transparent; }
+#content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauTwit { background: url('icn_twit.png') no-repeat scroll 0pt 50% transparent; }
+#content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauDigg { background: url('icon_digg.gif') no-repeat scroll 0pt 50% transparent; }
+#content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauDelicious { background: url('icn_delicious.png') no-repeat scroll 0pt 50% transparent; }
+#content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauMyspace { background: url('icn_myspace.jpg') no-repeat scroll 0pt 50% transparent; }
+#content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauGoogle { background: url('icn_google.gif') no-repeat scroll 0pt 50% transparent; }
+#content .retrouveznous .mainRetrouveznous .contenu .contenuRetrouveznous .lineRetrouveznous a.lienReseauLinkedIn { background: url('icn_linkedin.png') no-repeat scroll 0pt 50% transparent; }
+div.box-inner { border: 0pt solid rgb(170, 170, 170); overflow: hidden; padding-top: 6px; }
+.offAndAccessible { position: absolute; left: -1000px; top: -1000px; width: 1px; height: 1px; overflow: hidden; }
+.ss_sous_titre { background: none repeat scroll 0pt 0pt transparent; font-weight: bold; margin-left: 6px; padding: 0pt; text-align: left; font-size: 21px; line-height: 28px; }
+.sidebarLeft .ss_sous_titre, .sidebarRight .ss_sous_titre { display: none; }
+.ui-tc-act-next { background: url('next.png') no-repeat scroll 50% 50% transparent; opacity: 10; }
+.ui-tc-act-next:hover { background: url('nexthover.png') no-repeat scroll 50% 50% transparent; opacity: 10; }
+.ui-tc-act-previous { background: url('prev.png') no-repeat scroll 50% 50% transparent; opacity: 10; }
+.ui-tc-act-previous:hover { background: url('prevhover.png') no-repeat scroll 50% 50% transparent; opacity: 10; }
+/* ::::: http://webprep.dmzprive.cite-sciences.fr/cms/Satellite?blobcol=urldata&blobheadername1=content-type&blobheadervalue1=text%2Fcss&blobkey=id&blobtable=MungoBlobs&blobwhere=1248129713500&ssbinary=true ::::: */
+
+body { background: url('bg_agenda.jpg') no-repeat fixed 50% 0pt rgb(37, 91, 138); }
+#bandeau { background: url('bandeau_agendacultscientif.png') no-repeat scroll 0pt 0pt transparent; height: 132px; width: 100%; display: block; margin-bottom: 10px; }
+.virtualColContainer { clear: both; margin: auto; overflow: hidden; }
+.virtualColContainer { clear: both; margin: auto; overflow: hidden; }
+.virtualCol3366pctA { float: left; width: 38%; margin: 0pt 0.1% 0pt 0pt; padding: 0pt; overflow: hidden; }
+.virtualCol3366pctB { float: left; width: 60%; margin: 0pt; padding: 0pt; overflow: hidden; }
+#global {  }
+#content { background: url('contentfond.png') repeat scroll 0pt 0pt transparent; }
+#content .sidebarLeft { float: left; width: 205px; margin: 0pt 2px 0pt 0pt; overflow: hidden; }
+#content .sidebarRight { float: left; width: 205px; margin: 0pt 0pt 0pt 2px; overflow: hidden; }
+#content .contenucentral { float: left; width: 558px; height: 100%; overflow: hidden; }
+#content .contenucentral { float: left; margin: 0pt; background-color: white; }
+#content .contenucentral .bordureHaut {  }
+#content .contenucentral .bordureGauche {  }
+#content .contenucentral .bordureDroite {  }
+#content .contenucentral .bordureBas {  }
+#content .contenucentral .elementContenu .contenu { width: 548px; margin: 0pt 0pt 0pt 3px; padding: 0pt; }
+.titrePrincipal, #content .contenucentral .elementContenu .contenu .title { font-family: "Trebuchet MS",Verdana,Arial,Helvetica,sans-serif; font-weight: bold; color: rgb(255, 255, 255); margin: 0pt; padding: 0pt 0pt 0pt 20px; height: 29px; line-height: 29px; background: url('titre_bg01.jpg') no-repeat scroll 0pt 0pt transparent; }
+#content .contenucentral .elementContenu .contenu h2 { font-size: 21px; }
+.resultToolBar { margin: 5px; padding: 0pt 0pt 18px; background-color: white; }
+.resultToolBar .resultCounter { font-size: 15px; font-weight: bold; margin: 3px 0pt; }
+ul#resultList { padding: 5px 0pt 0pt; margin: 0pt 5px; border-top: 1px solid rgb(204, 204, 204); }
+ul#resultList li { position: relative; margin: 5px; padding: 0pt 0pt 5px; border-bottom: 1px solid rgb(204, 204, 204); }
+ul#resultList li div.resultMedia { width: 200px; overflow: hidden; }
+ul#resultList li div.resultMedia .resultMediaImg img { width: 149px; height: 115px; }
+ul#resultList li div.resultData { padding: 0pt 0pt 0pt 9px; }
+ul#resultList li div.resultData .resultLocation { font-size: 13px; font-weight: bold; color: rgb(51, 51, 51); width: 230px; display: block; }
+ul#resultList li div.resultData .resultFacility { font-size: 13px; font-weight: bold; font-style: italic; color: rgb(35, 100, 154); }
+ul#resultList li div.resultData .resultFlag {  }
+ul#resultList li div.resultData .resultFlag span { position: absolute; top: 0pt; right: 0pt; display: block; width: 85px; height: 39px; font-size: 12px; font-weight: bold; color: rgb(24, 150, 183); text-align: right; background-image: none; background-color: transparent; background-position: 99% 15px; background-repeat: no-repeat; }
+ul#resultList li div.resultData .resultFlag span.flagYouth { background-image: url('flag_youth_bg01.png'); }
+ul#resultList li div.resultData .resultTitle { font-size: 19px; font-weight: bold; color: rgb(0, 0, 0); margin: 15px 0pt 9px; }
+ul#resultList li div.resultData .resultKind { font-weight: bold; color: rgb(33, 100, 153); margin: 0pt 0pt 1px; }
+ul#resultList li div.resultData .resultDescription { color: rgb(51, 51, 51); margin: 7px 0pt; }
+ul#resultList li div.resultData .resultDate { font-size: 13px; font-weight: bold; color: rgb(0, 0, 0); margin: 9px 0pt 2px; }
+ul#resultList li div.resultData .resultEvent { font-size: 12px; color: rgb(102, 102, 102); margin: 2px 0pt; }
+ul#resultList li div.resultData .resultLink { text-align: right; margin: 15px 0pt 9px; }
+ul#resultList li div.resultData .resultLink a { font-weight: bold; color: rgb(34, 100, 153); padding: 0pt 0pt 0pt 15px; background: url('dot_square_blu01.gif') no-repeat scroll 0pt 2px transparent; }
+ul#resultList li div.resultData .resultLink a:hover { text-decoration: none; }
+.multiPageNav { height: 15px; width: 135px; margin: 0pt auto; padding: 13px 0pt; }
+.multiPageNav, .multiPageNav span { font-weight: bold; color: rgb(102, 102, 102); }
+#content .sidebarLeft .sidebarLeftPage .contenu { margin: 0pt 0pt 0pt 3px; }
+#content .sidebarLeft .contenu .widget { margin: 0pt 3px 0pt 0pt; }
+#content .sidebarLeft .widget { margin: 0pt 0pt 4px; }
+#content .sidebarRight {  }
+#content .sidebarRight .sidebarRightPage .contenu { margin: 0pt 3px 0pt 0pt; width: 202px; }
+#content .sidebarRight .contenu .widget { margin: 0pt 0pt 0pt 3px; }
+#content .sidebarRight .widget { margin: 0pt 0pt 4px; }
+content .sidebarRight .sidebarRightPage .bordureBas, #content .sidebarRight .sidebarRightPortail .bordureBas {  }
+.sec_central { background: url('gradiantbg01.png') repeat-x scroll 0% 0% transparent; padding-bottom: 1px; }
+.sec_central .ss_outer .ui-tc-act-previous { background: url('sidebarrightprev.png') no-repeat scroll 50% 50% transparent; }
+.sec_central .ss_outer .ui-tc-act-next { background: url('sidebarrightnext.png') no-repeat scroll 50% 50% transparent; }
+.ui-ss-top-outter, .ui-ss-bottom-outter { color: white; text-align: center; }
+.sectionCote { border: 3px solid rgb(204, 204, 204); margin-bottom: 3px; }
+.sectionCote h2 { background: url('widget_youth_bg01.png') repeat scroll 0% 0% rgb(35, 103, 158); border-bottom: 1px solid Gray; color: rgb(255, 255, 255); font-family: "Trebuchet MS",Verdana,Arial,Helvetica,sans-serif; font-size: 15px; font-weight: bold; height: auto; line-height: 16px; text-align: center; padding-bottom: 2%; padding-top: 2%; }
+.sectionCote .wdg_slideshow_carousel table { height: 150px ! important; }
+.sectionCote .ui-ss-top-outter { padding-top: 10px; }
+.sectionCote .ui-ss-tc-source { padding-top: 10px; }
+.widget { position: relative; }
+.widget .title { font-family: "Trebuchet MS",Verdana,Arial,Helvetica,sans-serif; font-size: 15px; font-weight: bold; color: rgb(255, 255, 255); height: 28px; line-height: 28px; padding: 0pt 0pt 0pt 9px; border-bottom: 1px solid Gray; }
+.widget .bloc {  }
+.widget .bloc .link { position: absolute; bottom: 3px; right: 3px; }
+.widget.widgetSearch { min-height: 159px; background: url('widget_map_bg01.jpg') no-repeat scroll 0pt 0pt rgb(35, 103, 158); }
+.widget.widgetSearch .title {  }
+.widget.widgetSearch .bloc {  }
+.widget.widgetSearch .bloc .content {  }
+.widget.widgetSearch .bloc .link {  }
+.widget.widgetPartner { height: 135px; background: url('widget_img_amesti.gif') no-repeat scroll 0pt 0pt rgb(5, 113, 154); }
+.widget.widgetPartner .title { background: url('widget_ttl_bg01.png') no-repeat scroll 0pt 0pt rgb(5, 113, 154); }
+.widget.widgetPartner .bloc {  }
+.widget.widgetPartner .bloc a { background: url('dot_arrow_blu01.gif') no-repeat scroll 0pt 5px transparent; color: rgb(33, 167, 196); padding: 0pt 0pt 0pt 9px; }
+.widget.carrousel { height: 100%; padding-bottom: 1px; background: url('widget_youth_bg01.png') no-repeat scroll 0pt 0pt rgb(35, 103, 158); }
+.widget.carrousel .title { text-align: center; padding: 0pt; background-color: transparent; background-image: none; }
+.widget.carrousel ul {  }
+.widget.carrousel ul li { color: rgb(255, 255, 255); margin: 7px 4px 4px; padding: 0pt 0pt 7px; border-bottom: 1px solid rgb(75, 130, 175); text-align: left; }
+.widget.carrousel ul li a { color: rgb(255, 255, 255); }
+.widget.carrousel ul li .sectionImg img, .widget.carrousel ul li img { width: 149px; height: 115px; margin: 0pt auto; }
+.widget.carrousel { height: auto; background: url('widget_youth_bg02.png') no-repeat scroll 0pt 0pt rgb(35, 103, 158); }
+.widget.carrousel .title { height: auto; line-height: normal; text-align: center; padding: 5px 0pt; background-color: transparent; background-image: none; border-bottom: 1px solid rgb(76, 104, 133); }
+.widget.widgetALaUne { height: 112px; background: url('widget_une_bg01.jpg') no-repeat scroll 0pt 0pt rgb(5, 113, 154); }
+.widget.widgetContact { height: 108px; background: url('widget_contact_bg01.jpg') no-repeat scroll 0pt 0pt rgb(127, 137, 143); }
+.widget.widgetContact .bloc .link { position: absolute; bottom: 19px; left: 63px; }
+#content .sidebarRight .sidebarRightPage .carrousel {  }
+#content .sidebarRight div.box-inner { overflow: hidden; margin-bottom: 5px; padding-top: 6px; border-width: 0pt; }
+#content .sidebarRight .container .carousel, #content .sidebarRight .container .carousel .carousel-wrap { border-width: 0pt; position: relative; height: 143px; margin: 0pt; }
+#content .sidebarRight .container .js { overflow: hidden; }
+#content .sidebarRight .container .carousel .carousel-control { overflow: hidden; display: inline-block; width: 15px; height: 15px; line-height: 999px; vertical-align: middle; background-position: 0pt 93px; cursor: pointer; }
+#content .sidebarRight .container .carousel .carousel-previous, .sidebarRight .ui-tc-act-previous { position: absolute; left: 4px; top: 55px; width: 15px; height: 15px; background: url('sidebarrightprev.png') no-repeat scroll 50% 50% transparent; }
+.sidebarRight .ui-tc-act-previous { background: url('sidebarrightprev.png') no-repeat scroll 50% 50% transparent ! important; font-size: xx-small ! important; position: inherit ! important; opacity: 10 ! important; }
+.sidebarRight .ui-tc-act-previous:hover { background: url('sidebarrightprevhover.png') no-repeat scroll 50% 50% transparent ! important; font-size: xx-small ! important; position: inherit ! important; opacity: 10 ! important; }
+.sidebarRight .ui-tc-act-next { background: url('sidebarrightnext.png') no-repeat scroll 50% 50% transparent ! important; font-size: xx-small ! important; position: inherit ! important; opacity: 10 ! important; }
+.sidebarRight .ui-tc-act-next:hover { background: url('sidebarrightnexthover.png') no-repeat scroll 50% 50% transparent ! important; font-size: xx-small ! important; position: inherit ! important; opacity: 10 ! important; }
+#content .sidebarRight .container .carousel .carousel-next { position: absolute; right: 4px; top: 55px; width: 15px; height: 15px; background: url('sidebarrightnext.png') no-repeat scroll 50% 50% transparent; }
+#content .sidebarRight .container .js .carousel-wrap { position: absolute; display: inline-block; left: 25px; width: 149px; margin: 0pt; vertical-align: middle; background-image: none; background-color: transparent; border-width: 0pt; }
+#content .sidebarRight .container .carousel ul { list-style: none outside none; margin: 0pt; padding: 0pt; }
+#content .sidebarRight .container .carousel ul li { position: relative; width: 199px; margin: 0pt; }
+#content .sidebarRight .container .js ul li { float: left; display: inline; width: 199px; height: 150px; text-align: center; overflow: hidden; }
+#content .sidebarRight .container .carousel div { width: 133px; margin: 0pt; padding: 0pt; border-width: 0pt; }
+.lienVersToutesActus { color: rgb(255, 255, 255); }
+.pagination { float: none; text-align: center; margin-bottom: 10px; }
+.pagination a { text-decoration: none; }
+.pagination .paginationLink { color: rgb(33, 167, 196); padding: 0pt 5px; font-size: large; }
+.pagination .paginationButton { background-color: rgb(33, 167, 196); color: white; padding: 0pt 5px; font-size: large; }
+.pagination .indexCourant { color: black; font-size: large; }
+.pagination .nextPage { border-right: 1px solid white; }
+a.link { background: url('dot_arrow_white01.gif') no-repeat scroll 0pt 5px transparent; color: rgb(255, 255, 255); font-weight: bold; padding: 0pt 0pt 0pt 9px; }
+/* ::::: http://webprep.dmzprive.cite-sciences.fr/cms/Satellite?blobcol=urldata&blobheadername1=content-type&blobheadervalue1=text%2Fcss&blobkey=id&blobtable=MungoBlobs&blobwhere=1248119972819&ssbinary=true ::::: */
+
+button.ui-button::-moz-focus-inner { border: 0pt none; padding: 0pt; }
+/* ::::: http://webprep.dmzprive.cite-sciences.fr/mediacs/styles/universcience/footer.css ::::: */
+

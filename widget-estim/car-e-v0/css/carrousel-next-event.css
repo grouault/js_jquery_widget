@@ -1,0 +1,51 @@
+/* 
+Styles relatifs au CARROUSEL NEXT EVENT
+--------------------------------------------------------------------------------------------------------------------------------------*/
+@import url(carrousel-event-common.css);
+@import url(slider.css);
+
+.next-events {
+    margin-bottom: 60px;
+    position: relative;
+    background-color: #F8F6F3;
+    padding: 15px 55px 35px;
+}
+
+.carrousel-next-event h2{
+color: #676767;
+font-size: 1.8em;
+font-weight: 400;
+margin-bottom: 10px;
+text-align: center;
+text-transform: uppercase;
+background: url(../img/spacer-title-home.png) left center repeat-x;
+}
+
+.carrousel-next-event h2 span{
+padding: 0 10px;
+display: inline-block;
+background-color: #fff;
+}
+
+/* MOBILE
+--------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 480px),
+    screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) {
+    
+    .carrousel-next-event .slider-home ul{
+    margin: auto;
+    }
+    
+}
+
+/* TABLET
+--------------------------------------------------------------------------------------------------------------------------------------*/
+/* @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) */
+@media screen and (min-width: 480px) and (max-width: 768px) {
+    
+    .next-events {
+      margin: 0 20px 60px;
+      padding: 15px 35px 35px;
+    }
+    
+}

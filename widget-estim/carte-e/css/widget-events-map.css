@@ -1,0 +1,153 @@
+/* Utilisée dans w-events-map.php
+/* Datepicker stylesheet for maps
+/* --------------------------------------------------------------------------------------------------------------------------------------*/
+/* COMMON TOOLS
+ *
+ * global import for common and widget
+ *
+ * --------------------------------------------------------------------------------------------------------------------------------------*/
+/* VARS
+--------------------------------------------------------------------------------------------------------------------------------------*/
+/* MIXINS
+--------------------------------------------------------------------------------------------------------------------------------------*/
+/* Maths
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.mobile-only {
+  display: none;
+}
+@media all and (max-width: 480px) {
+  .desktop-only {
+    display: none;
+  }
+  .mobile-only {
+    display: block;
+  }
+}
+.form-widget-structures-map {
+  padding-bottom: 20px;
+}
+.form-widget-structures-map .fieldset-structures-map {
+  margin: 0 9px;
+  padding: 0;
+  display: block;
+  text-align: center;
+}
+.form-widget-structures-map .input-structures-map,
+.form-widget-structures-map .content-submit-structures-map,
+.form-widget-structures-map label,
+.form-widget-structures-map .datepicker,
+.form-widget-structures-map .content-icon-datepicker {
+  height: 46px;
+  margin: 0;
+  vertical-align: middle;
+  border: #b7b7b7 solid 1px;
+  float: left;
+  color: #242424;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.325em;
+}
+.form-widget-structures-map .input-structures-map::-webkit-input-placeholder,
+.form-widget-structures-map .content-submit-structures-map::-webkit-input-placeholder,
+.form-widget-structures-map label::-webkit-input-placeholder,
+.form-widget-structures-map .datepicker::-webkit-input-placeholder,
+.form-widget-structures-map .content-icon-datepicker::-webkit-input-placeholder,
+.form-widget-structures-map .input-structures-map:-moz-placeholder,
+.form-widget-structures-map .content-submit-structures-map:-moz-placeholder,
+.form-widget-structures-map label:-moz-placeholder,
+.form-widget-structures-map .datepicker:-moz-placeholder,
+.form-widget-structures-map .content-icon-datepicker:-moz-placeholder,
+.form-widget-structures-map .input-structures-map::-moz-placeholder,
+.form-widget-structures-map .content-submit-structures-map::-moz-placeholder,
+.form-widget-structures-map label::-moz-placeholder,
+.form-widget-structures-map .datepicker::-moz-placeholder,
+.form-widget-structures-map .content-icon-datepicker::-moz-placeholder,
+.form-widget-structures-map .input-structures-map:-ms-input-placeholder,
+.form-widget-structures-map .content-submit-structures-map:-ms-input-placeholder,
+.form-widget-structures-map label:-ms-input-placeholder,
+.form-widget-structures-map .datepicker:-ms-input-placeholder,
+.form-widget-structures-map .content-icon-datepicker:-ms-input-placeholder {
+  color: #b7b7b7;
+}
+.form-widget-structures-map .content-datepicker {
+  margin-top: 10px;
+  float: right;
+}
+.form-widget-structures-map .content-datepicker .input-structures-map {
+  width: 222px;
+  padding: 0 14px;
+  border-right: 0;
+}
+.form-widget-structures-map .content-datepicker .content-submit-structures-map {
+  width: 48px;
+  border-left: #b7b7b7 solid 1px;
+  position: relative;
+  background: transparent url(../img/picto-search.png) center center no-repeat;
+}
+.form-widget-structures-map .content-datepicker .content-submit-structures-map .submit-structures-map {
+  width: 44px;
+  line-height: 44px;
+  margin-top: 1px;
+  padding: 0;
+  vertical-align: middle;
+  border: 0;
+  background-color: transparent;
+}
+.form-widget-structures-map .content-datepicker .content-submit-structures-map .submit-structures-map:hover {
+  text-decoration: underline;
+}
+.form-widget-structures-map .content-datepicker label {
+  line-height: 46px;
+  margin: 0 15px;
+  border: 0;
+  color: #000000;
+  font-weight: 400;
+}
+.form-widget-structures-map .content-datepicker .date-wrapper {
+  float: left;
+  position: relative;
+}
+.form-widget-structures-map .content-datepicker .date-wrapper .datepicker {
+  width: 117px;
+  padding: 0 14px;
+}
+.form-widget-structures-map .content-datepicker .date-wrapper .content-icon-datepicker {
+  width: 42px;
+  border-left: 0;
+}
+.form-widget-structures-map .content-datepicker .date-wrapper .ui-datepicker-trigger {
+  height: 20px;
+  position: absolute;
+  top: 13px;
+  right: 11px;
+}
+/**** < IE 8  ****/
+html.lt-ie9 .form-widget-structures-map .fieldset-structures-map {
+  float: left;
+  display: block;
+  width: 30%;
+}
+html.lt-ie9 .form-widget-structures-map .fieldset-structures-map.search {
+  width: 33%;
+}
+@media all and (min-width: 959px) {
+  .fieldset-structures-map {
+    margin: 0;
+    float: left;
+  }
+  .content-datepicker {
+    margin-top: 0;
+    float: left;
+  }
+  .content-datepicker .input-structures-map {
+    width: 396px;
+  }
+  .content-datepicker .date-wrapper {
+    float: left;
+  }
+  .content-datepicker .date-wrapper .datepicker {
+    width: 117px;
+    padding: 0 14px;
+  }
+}
